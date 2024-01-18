@@ -11,4 +11,8 @@ chez direct assuance, tout est centralisé. Ils arrivent à baisser les prix
 - il y a des data engineers qui bosses pour mettre en place la donnée
 
 - Prise de décisions basée sur les données fiables et pertinentes 
-s
+
+
+
+3 challenges : 
+premier challlenge :
