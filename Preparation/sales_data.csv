@@ -1,0 +1,1001 @@
+sale_id,product_name,category,quantity,unit_price,sale_date
+c516512b-1a72-4df6-ac97-d03c517015b9,Puzzle,Toys & Games,8,38,2023-06-28
+8d83cadd-7fb3-437c-968a-3254772bf48f,Lawn Mower,Home & Garden,2,62,2022-09-15
+55d7abbf-ed00-4ce7-b7d4-f4b989fa2f7e,Jeans,Clothing,1,10,2023-08-29
+0d56e39e-5704-4d2d-949b-d0963f6451a5,Conditioner,Health & Beauty,20,27,2022-10-28
+53e316ce-1052-4db4-a8fe-ca80e5a92462,Jeans,Clothing,16,15,2022-10-21
+f2d37076-2018-4544-b3ef-5ee9d4dc2f5d,Laptop,Electronics,12,27,2022-09-21
+61c51e7c-d612-4fee-acc4-6e2ca29d6b36,Conditioner,Health & Beauty,7,79,2023-02-17
+79facb30-0766-4922-848a-1a5312aaf4ab,Blender,Home & Garden,2,64,2022-08-31
+c92a08ba-feb8-4b8f-947d-6de107a7fd8c,Desk Lamp,Home & Garden,1,72,2023-12-19
+d3cec3ad-a719-40ab-b27d-b6b917b98ff9,Jacket,Clothing,6,60,2022-12-23
+6c4bb516-398f-4e61-817c-7b152c1aa232,Lawn Mower,Home & Garden,6,96,2023-06-20
+0b5abc5b-0d5c-4c73-9650-cc46566e5753,Doll,Toys & Games,12,3,2022-08-28
+da9d3c97-31c2-4e22-80b0-091a43722700,Desk Lamp,Home & Garden,7,55,2023-03-01
+1ad90e1a-2711-4f2f-8812-8e0c78de6dc7,Bed Sheets,Home & Garden,9,79,2023-11-02
+5eea862b-44a8-4559-b43c-901789f48822,Bed Sheets,Home & Garden,7,37,2022-10-20
+055c65ec-d4a4-4a92-9443-8aa8372403d4,Toothpaste,Health & Beauty,2,80,2023-05-26
+ec3bfcea-44db-4d17-a5a1-1287028639e1,Headphones,Electronics,1,42,2023-09-05
+75454326-2456-48ca-806c-e1c73b19c095,Toothpaste,Health & Beauty,7,47,2022-04-02
+1f112e7d-cda3-4db1-a380-49a5f0e2eb02,Conditioner,Health & Beauty,6,95,2023-03-14
+4c740cc1-0226-415d-8b5d-3cd3901b0264,Jeans,Clothing,19,74,2023-02-27
+d2cc5080-bfe8-4963-9e3a-4ea09559b96f,Doll,Toys & Games,5,10,2023-08-19
+d564409f-0195-4bb2-8b2a-322a23dcffd9,Blender,Home & Garden,10,78,2022-01-23
+9382c9f7-cd87-4580-a974-1754b6c44edf,T-Shirt,Clothing,8,46,2023-01-16
+e01c86d0-2a68-4ca6-8a07-c12b54292742,Action Figure,Toys & Games,5,33,2023-06-24
+46a71eae-8d5d-44c1-9a4e-d9e9a1d82eb9,Sneakers,Clothing,4,57,2022-12-31
+b4b80825-495c-4f53-bb19-0639f249f29f,Jeans,Clothing,6,94,2022-09-06
+050720e4-84e8-4d3a-9756-3409b2ea2203,Perfume,Health & Beauty,8,66,2022-07-16
+b27b456f-bf25-4938-95f9-bfd6077f0636,Sneakers,Clothing,17,46,2023-12-01
+3faf3189-bf94-4804-955c-abd0f6f7216a,Puzzle,Toys & Games,1,17,2022-05-21
+0455159b-bd47-48f6-a558-4200d49afdb8,Headphones,Electronics,16,84,2022-07-26
+810b4d1f-d8e7-4866-846b-1e295d901169,Dress,Clothing,15,1,2023-03-09
+8b979994-d312-4965-b5ae-2c2d56c65bd3,Blender,Home & Garden,11,33,2022-10-17
+49db8564-fdc6-4d22-8b15-6a3bca227238,Doll,Toys & Games,4,28,2023-09-26
+85d34b06-adab-4fda-b8c8-c863d4e9bd5c,Desk Lamp,Home & Garden,20,79,2022-05-09
+14f0ad7a-1070-401b-bb2a-0a36c91652a3,Dress,Clothing,9,14,2023-03-14
+bb28a78c-9ffd-4231-abf9-a868f52b7397,T-Shirt,Clothing,4,17,2023-09-08
+37af52d4-741b-4f3f-ad9b-ea95c8229dd9,Lawn Mower,Home & Garden,18,52,2023-06-27
+aafe1580-c156-4b02-a461-0f6dac5fce51,Perfume,Health & Beauty,3,3,2022-05-15
+cab23ea3-f774-48d5-8bec-8f7a21448a89,Smartphone,Electronics,10,45,2023-10-22
+ac22cc46-60c3-4084-a47f-26d2a4430fee,Video Game,Toys & Games,6,71,2023-06-27
+ce76e927-94fb-48a8-8f61-89afdc0e616c,Camera,Electronics,17,77,2022-08-01
+867edf61-b1f2-458f-b7be-0b89c8278e28,Doll,Toys & Games,14,10,2024-01-05
+ce5cf8ca-426c-47e3-b317-5fe19b7b93d2,Sneakers,Clothing,20,97,2022-05-02
+af994cd7-a0ff-4f59-a69a-2ec3ddc683e7,Smartphone,Electronics,8,32,2022-11-27
+d4268574-3485-46f3-b82e-fb6c569b84ed,Action Figure,Toys & Games,11,59,2023-03-16
+feda17d2-74f6-4f12-9214-a22b95b6038f,Smartwatch,Electronics,12,76,2023-09-30
+c75baf2d-f486-4de1-8503-ffea981c1029,Smartphone,Electronics,4,94,2023-09-15
+1ac5cbef-3b17-47f3-9eb1-e19dba7c467e,Desk Lamp,Home & Garden,2,44,2023-01-31
+7a08a365-f24f-492f-a9ad-e5e9083d6ce9,Bed Sheets,Home & Garden,16,5,2023-06-29
+9275f373-4ba9-470b-850a-9106c088e324,Jeans,Clothing,9,56,2023-08-25
+f0be8c81-a602-4117-8996-053bd539c832,Headphones,Electronics,11,95,2022-11-05
+5c419ac3-d823-4ae5-90df-a20e475e44e1,Lawn Mower,Home & Garden,1,59,2023-06-08
+40ef5183-f6f0-4ef0-8e19-2049051f58a5,Board Game,Toys & Games,20,46,2023-11-15
+4cf05f30-eb40-4a4b-b1d2-d3ee371137a3,Jeans,Clothing,8,85,2022-07-07
+5037c6b9-269f-4cba-97c2-0d1c640c6598,Action Figure,Toys & Games,13,99,2022-04-10
+f96edbff-ae1b-4218-8370-bd762d6b04ab,Video Game,Toys & Games,11,6,2023-11-08
+28bdaf08-f6e9-408f-9e9d-d8ef01de83e8,Smartwatch,Electronics,13,78,2022-10-27
+af272dd6-e2e1-4f70-8dcf-a00ec0b578ad,Lawn Mower,Home & Garden,20,64,2023-11-10
+a0267097-3977-4817-977e-5920ac2ab81a,Toothpaste,Health & Beauty,11,92,2023-04-18
+9ef7b4c0-74ef-4331-901c-f54a8451fa82,Conditioner,Health & Beauty,4,54,2023-05-20
+3459389b-c4b3-40bf-8cc8-962d86b67f42,Perfume,Health & Beauty,6,94,2022-09-20
+b660339d-f0ec-4e82-ba4b-4e8b4037be0e,Blender,Home & Garden,6,66,2022-02-15
+79fe04be-62cb-49a0-91b3-ec3b9f911910,Action Figure,Toys & Games,20,8,2023-12-18
+621c83ca-049e-4cad-afe7-fcde14fa4c6b,Shampoo,Health & Beauty,11,86,2023-12-05
+5f3af33f-ced7-484c-938c-dfb0b8e39e6a,Smartphone,Electronics,19,79,2023-04-29
+0e8699d0-3ba2-461c-a5a5-85928fa90044,T-Shirt,Clothing,2,63,2022-05-18
+fbb17f6e-1646-46fb-85af-7bf2a9a319c2,Board Game,Toys & Games,10,21,2022-06-13
+16b79a18-2b6a-46e5-9901-4e4f295bbfd4,Conditioner,Health & Beauty,17,49,2022-09-23
+ca5046cc-47e9-4551-a86f-b3e2547f2a8f,Action Figure,Toys & Games,8,66,2023-05-19
+ad3cda1c-e9d1-436c-8b9a-f91dbbcbb95a,Headphones,Electronics,20,76,2023-03-18
+8161c927-4165-4fdb-b0d8-d951b3fd2dba,Toothpaste,Health & Beauty,10,6,2023-09-25
+142ea6f4-1bd9-4163-88d7-87c88737ebab,Blender,Home & Garden,1,84,2022-02-08
+7aede5d9-9153-4633-a304-844d2d10e33e,Face Cream,Health & Beauty,18,50,2023-07-18
+fefdf0c1-3677-49a5-a378-ef58700babf2,Lawn Mower,Home & Garden,20,46,2022-10-04
+2ce66508-a090-42ca-adf7-97727f8b2e0a,Blender,Home & Garden,15,74,2023-01-09
+10d667ae-ee09-4846-9df3-374cab8b8eb8,Puzzle,Toys & Games,6,70,2023-03-18
+9c854b67-d243-48e0-b77c-afad541af1aa,Laptop,Electronics,5,87,2022-01-23
+a937fd92-6623-47f1-bf83-6aafeb0f34be,Shampoo,Health & Beauty,15,10,2023-08-23
+5c085366-fc04-40cf-bf14-e26a14ac2424,Doll,Toys & Games,1,78,2023-10-28
+57ed8f5e-edd3-4240-95a0-40d31fe08f40,Puzzle,Toys & Games,16,93,2023-02-28
+997e725d-ebd3-4c0d-906e-b52331839179,Video Game,Toys & Games,12,95,2022-11-07
+ece38dd7-c3bf-40e0-975b-646b6b0cc195,Sneakers,Clothing,4,19,2023-08-03
+e9a99676-ba9a-46a2-9ceb-d1cf65ef84eb,Headphones,Electronics,9,74,2022-07-23
+3dae0c1d-87ce-44dc-8eeb-fb8fdd013f57,Smartphone,Electronics,11,91,2022-07-25
+2d52bdfd-0897-41d0-8608-f330bf9ee0dd,Shampoo,Health & Beauty,4,18,2022-03-20
+be0d0fca-1761-4808-8b7f-19263976f640,Jeans,Clothing,3,2,2022-06-11
+cc592bc9-0f2f-4eff-939b-482ce43295c9,Smartwatch,Electronics,13,59,2023-08-05
+a64c0917-50ac-4914-8ed7-0e0ffe570be6,Desk Lamp,Home & Garden,20,86,2023-11-29
+e5f5868f-6134-4cb6-9004-7be4110efe51,Blender,Home & Garden,19,70,2022-08-20
+6fbac685-264b-427f-993c-05c4e009e318,Puzzle,Toys & Games,11,60,2023-03-09
+44e10d10-a161-4300-945d-fe0e9f6d5119,Doll,Toys & Games,10,65,2022-11-22
+1d95c789-9b63-44fb-99eb-5bd99e8d323c,Face Cream,Health & Beauty,13,33,2023-01-27
+67ee9199-68e6-4fbd-8b5f-18db659dd68e,Jeans,Clothing,1,74,2022-06-03
+f140a22c-2a62-47c9-bfe8-2d360d144d96,Puzzle,Toys & Games,14,45,2023-08-25
+7cf21630-e234-486b-93a3-b6010dc7becc,Board Game,Toys & Games,19,74,2023-05-04
+0d644aaf-1b9d-43c4-8e0b-990d653d5dcb,Jacket,Clothing,8,93,2022-09-27
+7f152e44-c1af-47e3-b595-20078e27ad46,Lawn Mower,Home & Garden,6,37,2023-12-17
+794a6b4e-a87e-4f86-872e-bae7211ddcc7,Shampoo,Health & Beauty,3,5,2022-08-10
+7a6369e4-1f6d-4875-819e-01e81a78bc22,Jeans,Clothing,19,73,2023-10-08
+4e2fe05c-e9ab-4598-97a9-6dce3d88185b,Jacket,Clothing,4,81,2023-08-11
+72df33c3-5726-45f2-9a82-99ad4eef4b98,Dress,Clothing,3,44,2023-03-09
+15b1ccd8-50cc-4268-a317-4e0fe2dcaf3f,Sneakers,Clothing,15,11,2023-08-05
+42ae2fc8-177c-4696-ada9-90c790bc96aa,Lawn Mower,Home & Garden,9,15,2023-03-28
+3180e3bc-f790-4cb2-b1cf-2878f53efd1d,Doll,Toys & Games,11,40,2023-01-30
+2cf8e816-04ed-4068-8925-83e9148ba93c,Smartwatch,Electronics,18,14,2023-01-31
+51ced176-a01d-499a-ba45-f5f9a891679d,Camera,Electronics,16,28,2022-10-01
+57cfe5ee-d5eb-403f-8edd-c18404f37332,Drill,Home & Garden,19,45,2023-11-30
+7cf8d644-cf20-4635-a356-872ea6e0e705,Laptop,Electronics,4,73,2022-03-07
+e50b2531-3ae3-4fdd-96c6-8c959e36ff3c,Jeans,Clothing,3,10,2022-03-13
+ff7a891a-06f5-4d35-97b4-bf22d16ad996,Action Figure,Toys & Games,20,85,2022-06-23
+37e2c39c-f66c-4ea6-a58d-458d7ac71e3e,Sneakers,Clothing,11,96,2023-09-15
+2b363315-1dfd-43aa-a682-228ef30aee5e,Perfume,Health & Beauty,19,53,2023-11-22
+10573c7e-35ea-4157-8e62-d0a846963681,Drill,Home & Garden,18,79,2022-03-03
+15221b7f-3e39-4893-9055-789cb093475a,Toothpaste,Health & Beauty,6,43,2023-05-17
+bb0e8771-577b-4596-a955-a7677c59afcd,Action Figure,Toys & Games,7,27,2022-10-28
+c4f990dc-2488-4cd5-b9ab-be6854a72722,Camera,Electronics,5,68,2023-09-11
+211f9c15-d754-416a-b334-d7c8e67e69f9,Dress,Clothing,16,95,2022-09-05
+951e3065-f6e8-4a28-9b48-1d84248fb2ae,Jacket,Clothing,14,6,2023-10-31
+e266f346-2853-44d9-a557-7c60346e936c,Shampoo,Health & Beauty,1,19,2023-11-01
+f5767426-b79d-45f2-8539-a70af68542f8,T-Shirt,Clothing,3,49,2023-08-10
+d82a6773-7648-48cf-a080-78e6b191fb97,Desk Lamp,Home & Garden,5,87,2023-08-27
+062dbff9-7642-433a-bb1a-2acb4bddeb47,Perfume,Health & Beauty,7,93,2022-05-28
+da4fad68-dd41-44ad-a34b-62c941012dc9,Smartphone,Electronics,20,59,2023-11-20
+2fcb510c-96e8-44b9-a672-35b2c37bed95,Laptop,Electronics,7,57,2022-05-13
+c68d8054-ce66-45ea-bd46-0dd9cd05f082,Desk Lamp,Home & Garden,10,32,2023-08-01
+a8b34d6c-f6a5-4bc5-be9d-e51b763aab52,Headphones,Electronics,15,48,2022-05-16
+dffd29cc-175b-48e3-a052-fcd36ee3c230,Face Cream,Health & Beauty,20,2,2022-04-03
+359c7656-5c37-46fa-917d-91845e2bf7fc,Lawn Mower,Home & Garden,17,21,2022-11-20
+6765a8db-bfae-4f15-a0c2-6d18b11ca433,Dress,Clothing,4,50,2023-06-09
+8982fa99-629d-4b33-808b-33b7beae4aa4,Shampoo,Health & Beauty,15,74,2022-01-14
+4da6b964-3c23-4f1c-b5b7-ab803d5e03d6,Puzzle,Toys & Games,19,30,2023-07-29
+80026b71-dfbd-40c9-94c7-477e69c4c83c,Puzzle,Toys & Games,10,86,2023-09-10
+4a8dec74-f7c6-4c6a-b9c8-05cabe1234ff,Toothpaste,Health & Beauty,6,42,2023-03-29
+3ae16644-f521-46f8-9231-fd6b3852e318,Face Cream,Health & Beauty,14,77,2022-06-22
+b371641f-9c16-4195-b324-00ee4f812e33,Drill,Home & Garden,14,62,2023-01-22
+c087e2bf-8448-4ca6-add1-19b33c5d63d3,Board Game,Toys & Games,18,90,2023-11-19
+b2125599-06ae-434b-a4ac-c25c33e69589,Toothpaste,Health & Beauty,8,89,2022-05-09
+821c6148-c700-4a6e-9774-2d4a8daebae1,Perfume,Health & Beauty,15,34,2022-07-13
+c193646a-e60b-4e2e-94ec-03242b52c448,Dress,Clothing,19,13,2022-01-08
+cd20eb0d-502f-45a5-98f9-f0c235a2c35f,T-Shirt,Clothing,5,58,2023-12-10
+5b7b8827-5d91-490e-912d-b57326265e34,Dress,Clothing,7,71,2023-02-26
+ffcd9d9a-6a47-451f-9489-95c3cb08c176,Blender,Home & Garden,3,20,2023-11-12
+b1df579b-7a65-43f5-926a-ba8e9ab7eec4,Action Figure,Toys & Games,14,51,2023-01-31
+a33e9d3c-99b5-4250-a524-991f1fbeea0e,Action Figure,Toys & Games,7,73,2023-06-05
+03133062-ef25-45d0-9c8f-64d9ffcd91ec,Camera,Electronics,20,98,2023-05-06
+f174a950-30b0-4c42-b7f6-3885933e57b4,Smartwatch,Electronics,4,64,2023-12-01
+6258f203-49e2-4b85-9875-f4376113580f,Shampoo,Health & Beauty,17,6,2023-08-01
+cb404325-52d1-46c0-a638-0407bbda9465,Desk Lamp,Home & Garden,17,62,2022-06-28
+2111c87c-22cd-4838-aa71-c7c6452ef69d,T-Shirt,Clothing,1,54,2023-06-13
+8885f1fa-f77b-495b-94f6-ec113c9425a0,Lawn Mower,Home & Garden,11,82,2022-10-17
+f0d84d01-8983-43c3-8b3a-78d9570d5a9e,Shampoo,Health & Beauty,20,3,2023-04-24
+39ecfe06-ceb9-410a-a64d-6548359ea77e,Board Game,Toys & Games,12,86,2022-12-05
+dcead640-511a-4c01-9453-afed0274bc96,Bed Sheets,Home & Garden,13,39,2023-11-23
+3827b957-e3d1-4d7c-b325-1d011a74f841,Smartwatch,Electronics,15,44,2022-03-26
+1ba754eb-e3d3-47ae-9fb5-fc1a3b62c00c,T-Shirt,Clothing,8,12,2022-01-19
+c1f4d6e0-e98e-457c-a064-f05f3edbe957,Perfume,Health & Beauty,13,84,2023-01-31
+12715514-e089-4625-bf5f-f48fd0a8f2d5,Blender,Home & Garden,9,4,2022-04-08
+9c9a1e3b-4cb8-4d3d-9f19-9a26586baf61,Camera,Electronics,1,24,2022-11-06
+ac1a944f-915b-4316-be47-6271877f22ed,Jacket,Clothing,3,67,2022-09-19
+d76f5ad1-0065-4014-b0f3-420719d907bf,Drill,Home & Garden,17,67,2022-02-04
+23eda01f-584e-4f8d-b46f-416dae7affc1,Jeans,Clothing,7,36,2022-12-28
+e6a25464-b09e-49a9-808b-b8fe13bda0e5,Sneakers,Clothing,5,54,2022-02-05
+7c8fc54d-d220-4131-813e-afda79827986,Drill,Home & Garden,8,65,2023-11-08
+55e9cb84-7bbb-433d-818d-529ae809ebdc,Jeans,Clothing,2,71,2023-11-05
+95e8d9e1-5086-4dca-8838-5676de807e4e,Laptop,Electronics,3,61,2022-05-15
+dbeb6a7d-48e8-4fd5-843c-bb70146b9176,Face Cream,Health & Beauty,4,84,2022-02-24
+6fdf0884-d8b5-41cd-a48a-6eb73f601252,Laptop,Electronics,20,53,2022-11-25
+784d63eb-873f-4140-b868-a28fb3baec63,Puzzle,Toys & Games,3,22,2022-05-26
+85bdae55-47bf-42d1-af9b-feb3a0019a92,Jeans,Clothing,8,86,2022-08-26
+3a9bf8ba-1cb8-4c74-ad6f-5352b12c3555,Lawn Mower,Home & Garden,17,91,2023-11-04
+d051a0aa-4e5d-461c-b6af-acb9e2b55813,Laptop,Electronics,20,17,2023-05-25
+d98ed6a2-e8d7-415a-b233-ad381d0e8e19,Blender,Home & Garden,9,98,2022-10-06
+d86825e2-94bd-48ff-8775-78fec7f06e77,Doll,Toys & Games,19,38,2022-03-26
+8cd06a82-7e46-4fb7-8ee0-08098ee3c55c,Desk Lamp,Home & Garden,11,14,2022-11-27
+81c3122f-441a-4a77-ba65-03f41b9c690a,Camera,Electronics,7,16,2022-05-14
+634f9261-6066-4e11-927b-61cbfee386b3,Bed Sheets,Home & Garden,6,77,2022-12-21
+82929d3d-4f72-4def-8557-9b5e364c94ea,Desk Lamp,Home & Garden,16,38,2023-01-02
+c05e9cb7-fe75-44d5-81a0-49adcd96686f,Face Cream,Health & Beauty,15,82,2023-05-06
+fe6e9941-36ae-4306-a0a6-31d0908682e9,Conditioner,Health & Beauty,7,27,2023-06-29
+12565bb8-b5f0-4647-a7d5-56b84e90f758,Board Game,Toys & Games,17,99,2022-06-17
+930a491b-4035-45a1-a5b6-1442377e3b41,Headphones,Electronics,20,26,2023-12-17
+966af83b-b7a8-4412-8298-447b01d7a695,Doll,Toys & Games,8,5,2022-01-16
+23376863-7110-41c3-a243-f19410731d2d,Bed Sheets,Home & Garden,4,12,2022-04-18
+4824c97f-e46d-41ea-beab-1889f4ece500,Video Game,Toys & Games,10,43,2023-10-11
+502ca9f9-381b-48a0-827c-ce672daeafa5,Blender,Home & Garden,16,48,2023-06-16
+0350d50f-bc34-4970-a50f-8375f7447b87,Perfume,Health & Beauty,16,96,2022-01-16
+587739fc-5bd2-4fc2-9024-7727a15de5cd,Conditioner,Health & Beauty,11,85,2023-12-22
+bbe11f72-ed97-4024-a464-fcb709e72ec4,Video Game,Toys & Games,8,56,2023-09-10
+30f7c085-bde6-4234-836e-b82c9977b84a,Video Game,Toys & Games,11,92,2023-02-06
+ab8e46bd-0517-48fe-8b1e-361c298c75ca,Smartphone,Electronics,3,93,2022-12-15
+f2c75d6d-8809-4635-8b35-433fdc66005c,Drill,Home & Garden,5,88,2022-05-22
+c06ca5eb-11fa-45d4-88df-9bd997f87af2,Dress,Clothing,20,85,2022-01-15
+18c08897-ffa6-41ea-8511-a914b9066d95,Face Cream,Health & Beauty,15,78,2022-02-24
+b34bef77-e3e4-42ae-9671-c7b968f8e19c,Blender,Home & Garden,10,7,2023-12-30
+4665ef70-f351-4062-a7e6-f8c183110142,Jacket,Clothing,13,22,2023-10-09
+8f246263-91ce-4696-a210-4d2898ed6d59,Face Cream,Health & Beauty,10,53,2022-06-27
+29b7b7e1-b2b5-47e4-ae81-fbde46e62143,Action Figure,Toys & Games,5,93,2023-11-11
+4e279fbd-8a39-4011-8442-72f81cc51ba7,Board Game,Toys & Games,3,84,2022-10-02
+e49dc033-89d3-4251-97f4-055ad2a7447d,Jeans,Clothing,7,68,2023-10-11
+4b6b44eb-4a5e-46e8-ba23-4623975b9979,Conditioner,Health & Beauty,18,65,2022-05-23
+de1dc85e-b004-4c8b-bd17-4e3ac9f3d168,Perfume,Health & Beauty,18,1,2022-01-26
+47ecdaa9-5455-4e25-a636-986a7e9a3990,Dress,Clothing,15,21,2022-03-24
+3c2dfa79-80c5-40f4-a7f1-c7f7922af342,Dress,Clothing,9,96,2022-03-22
+4f8952d2-624d-45ae-acd6-b383d18dbc11,Jacket,Clothing,3,64,2022-11-14
+7d552177-7b8b-4b41-b3b1-48afdc8af917,Puzzle,Toys & Games,11,10,2022-01-11
+4f3bee31-2875-4429-bb81-cdd71caa7723,Headphones,Electronics,14,53,2023-11-04
+c4ed7eac-b71a-4091-a2a2-347f09347461,Face Cream,Health & Beauty,16,48,2022-08-13
+59f2d0bd-61b5-4f0c-8495-cf938af6dfb2,Lawn Mower,Home & Garden,19,31,2023-08-12
+36a0ee2e-d314-4c94-ac98-4be029abacf0,Lawn Mower,Home & Garden,16,41,2023-12-06
+7da02af3-40e1-4884-a2f1-5831d551200e,Smartphone,Electronics,11,54,2022-02-03
+3a22c29e-2db4-4091-b2dd-7e278e97305e,Blender,Home & Garden,5,68,2022-11-23
+dfbd4cc5-ff30-4e30-9202-29368c1ab1d9,Bed Sheets,Home & Garden,12,53,2022-02-13
+8da25dc6-e240-4a72-8ef3-d3139182368d,Lawn Mower,Home & Garden,8,83,2023-12-18
+bc1f15ef-386e-451e-9ceb-22db27d73191,Jeans,Clothing,18,73,2022-02-15
+b6e3fc6c-b970-4782-8d0d-d1e191d56e1b,Sneakers,Clothing,7,21,2022-11-17
+3fc73b85-3117-4d0b-9e97-4e38a01f41ba,Headphones,Electronics,14,0,2023-08-01
+bfc78ab6-e3f5-427a-92d8-96875ab83cdd,Laptop,Electronics,18,48,2023-08-30
+e12b4fc6-8a75-41a0-bb73-d262179d58fb,Smartwatch,Electronics,8,67,2023-06-08
+d53fdc52-78dd-416d-a9e2-f08393573ae2,Headphones,Electronics,13,55,2023-08-25
+05cdded7-c25e-4585-8c36-5137f2ebaf4b,Jeans,Clothing,9,92,2022-05-04
+88c932c2-5736-47df-8723-907c04c67faa,Desk Lamp,Home & Garden,7,69,2023-02-10
+29b5019f-a6ed-4bd3-b58d-5636c65db5f0,Camera,Electronics,10,52,2023-10-07
+069d2529-1deb-4b1f-b93c-1d808d3584d5,Toothpaste,Health & Beauty,17,94,2022-06-02
+9caa3ecd-e513-4d1f-a95a-dc953ed94c14,Conditioner,Health & Beauty,20,38,2023-01-16
+0d34d0f9-a328-4bf6-8e38-293b3f9d8e8b,Headphones,Electronics,2,34,2022-05-07
+f76156be-8054-46e5-a4ae-aa9a0f9c5ed9,Video Game,Toys & Games,12,41,2022-06-24
+2adb6246-84ad-43b1-b09e-af39265541ec,T-Shirt,Clothing,2,29,2023-03-16
+b1226ca9-26bd-4483-9389-6525fda3bcd3,Face Cream,Health & Beauty,15,26,2022-12-01
+3091adf2-09fc-4b92-98d1-4b4e3696ec9d,Bed Sheets,Home & Garden,20,29,2023-05-07
+ee2a6df0-6346-445d-8558-1b4d3c4bd763,Smartwatch,Electronics,12,81,2022-07-22
+0e947a52-1a45-4fb1-81d7-fcf141e10d38,T-Shirt,Clothing,8,71,2023-08-11
+9d228c3b-e10c-4838-9239-14a4a9a0d70c,Jeans,Clothing,2,10,2022-03-07
+6f4e8456-8362-4801-9964-31ad753fb85c,Sneakers,Clothing,20,18,2022-03-03
+93c4005c-b171-4b75-a964-5694015f2432,Blender,Home & Garden,15,85,2022-12-28
+52df594d-54c7-48f0-8b56-5baadfa74c45,Smartphone,Electronics,11,5,2022-12-09
+3734d9cb-1176-4b92-8cb6-8a41167bdc29,Perfume,Health & Beauty,13,51,2022-09-19
+fccf9ae4-ba19-450a-bbf3-2b848c9f35ab,Bed Sheets,Home & Garden,17,61,2023-08-04
+96d5e52c-941c-4f33-93cc-1bba9cd25ac5,Doll,Toys & Games,14,11,2022-07-24
+e9d7455f-72be-48f5-af96-4eb277fedd0a,Action Figure,Toys & Games,1,16,2022-04-06
+cc46393c-c1d9-4ca8-8986-6a3b2375b3d0,Action Figure,Toys & Games,14,26,2022-08-12
+4e63e5f2-7d85-4c77-8f8b-34fa88644139,Jeans,Clothing,6,17,2022-06-11
+068a061e-67d5-41e5-93af-7ec61a08080e,Blender,Home & Garden,15,15,2023-09-14
+4dce30ca-177a-460b-a112-62905376db52,Conditioner,Health & Beauty,13,83,2023-09-11
+14aa55df-e683-4870-84e5-f5eb29adf574,Dress,Clothing,4,5,2023-03-07
+2368b3d1-dc22-4b9e-9778-a03d0a431d53,Blender,Home & Garden,14,77,2022-08-29
+22dedca9-d8e8-4641-93aa-9872b8b6368a,Lawn Mower,Home & Garden,7,20,2022-10-24
+00fcf581-34fc-45da-ba3b-2bdecff36792,Drill,Home & Garden,2,40,2022-12-17
+d651ba16-3f7b-4233-a425-1946df00b978,Smartphone,Electronics,11,67,2022-11-28
+17440ffb-483a-4b96-a3ec-034976673ae6,Drill,Home & Garden,20,70,2023-11-30
+624e1b63-f30d-4220-bf3b-f202e8d7cd79,Smartwatch,Electronics,17,90,2022-10-14
+18cfaaf7-ca56-4d0b-bac0-62c8b4df07ba,Smartphone,Electronics,8,72,2023-02-06
+77df03d2-f5cb-4b66-acef-c9d6215605fd,Laptop,Electronics,5,2,2022-03-28
+a556cc11-8aa3-4a88-afd7-7fc4d5a7affa,Smartwatch,Electronics,12,61,2022-06-10
+92329625-191e-4429-8ba9-64504bb33eb7,Blender,Home & Garden,11,12,2023-12-08
+4c413504-8428-43e9-9cc5-cd8b9075a927,T-Shirt,Clothing,20,71,2022-02-10
+8e9636d9-15b8-4531-a0af-92afb5322fe9,Action Figure,Toys & Games,15,13,2022-12-08
+bfc9e2bd-3255-451a-a612-a3d005833dbd,Action Figure,Toys & Games,7,2,2023-09-05
+db621a01-14b1-40b3-91f6-dd483ac24562,Board Game,Toys & Games,9,13,2022-09-24
+0ec93a68-973c-4773-af9f-e3c2c1d94cf3,Board Game,Toys & Games,4,88,2022-10-09
+cb04f460-81d9-4c50-a156-444ec4c98755,Smartphone,Electronics,4,83,2022-01-18
+3307063d-4d94-49b5-96dc-28c8df49ae4c,Jeans,Clothing,12,83,2023-10-19
+17966734-cafa-457c-811f-44c01a01332a,Jeans,Clothing,13,69,2022-08-19
+145293de-69c3-4b12-877d-98045b915916,Perfume,Health & Beauty,15,53,2022-04-30
+352985fe-d285-4d06-b48a-626d354d95c5,Smartwatch,Electronics,10,14,2023-07-10
+b7d60891-0a1b-42e9-96bc-67f1c7dbb044,Smartphone,Electronics,5,47,2023-07-24
+81bc7c5e-b33a-4e79-8b11-f44722d301ab,Lawn Mower,Home & Garden,2,21,2022-01-14
+cd0c43fa-ae38-45df-b538-d480fa476638,Camera,Electronics,17,5,2022-11-01
+0d3ab075-1118-4bee-bfc8-8a6eceaee273,Sneakers,Clothing,1,13,2023-03-27
+248cb7a3-15dc-4956-bea9-3ea2b7efb111,Action Figure,Toys & Games,20,19,2022-10-15
+a560f8e5-4f2b-496c-af93-cb9f7e232b98,Toothpaste,Health & Beauty,13,0,2023-09-24
+33e0d92b-a9ae-49d7-b858-0cb3a4879409,Toothpaste,Health & Beauty,19,11,2022-05-13
+0cc04525-87bf-4c0c-a311-064d2c74ed31,Action Figure,Toys & Games,8,51,2023-11-09
+5b240929-9a30-4e63-9074-05b794f42ff7,Shampoo,Health & Beauty,15,51,2023-11-11
+4f98cfa2-99db-4a6b-9026-535f95947eed,Toothpaste,Health & Beauty,5,32,2022-01-10
+21ee9b7d-bafa-46f7-bddc-ca27a66b7782,Jeans,Clothing,11,55,2022-05-08
+bdf6bf49-ca16-4fc6-872d-fd1757dc086e,Desk Lamp,Home & Garden,8,27,2023-02-20
+628d5f84-1614-4236-a9bd-3d320a14b1e0,Toothpaste,Health & Beauty,2,73,2022-05-11
+6989fcc7-b85d-4783-8a3b-a73d5265b6e2,Lawn Mower,Home & Garden,14,14,2023-07-15
+54648d56-21a3-4091-b59a-b5d2141cdef4,Smartwatch,Electronics,5,5,2022-05-23
+226ae589-f878-43bc-8ac4-530ba991305d,Bed Sheets,Home & Garden,6,15,2022-06-11
+ad96829d-5480-49b6-9775-44879fc94006,T-Shirt,Clothing,9,64,2023-05-24
+226574a5-a684-403d-a56a-081b88f0d33f,Face Cream,Health & Beauty,9,66,2023-12-17
+f2950c6a-3467-45f4-b39d-548f9c83c8ec,Laptop,Electronics,1,12,2022-02-27
+6f78a384-d6c5-4cec-bc94-07e673a5b6bf,Shampoo,Health & Beauty,14,20,2023-10-31
+572be538-3f6c-4193-a999-42a6f6c58cb0,Drill,Home & Garden,14,84,2023-05-02
+ecfa3d08-be77-4e65-a270-e291cca48b19,Board Game,Toys & Games,8,84,2022-06-13
+ec26d903-8056-400f-9ee8-848dab4c7fbd,Sneakers,Clothing,4,54,2023-07-20
+76e8e8d5-393e-43c9-90c1-a50439522256,Blender,Home & Garden,5,8,2022-03-28
+3e526d9d-a7c2-4fc9-b2aa-f8c2ba6d7f70,Laptop,Electronics,6,73,2022-12-17
+94cd2562-2cd6-4a76-b12d-c1a4472f36bc,Video Game,Toys & Games,14,33,2022-11-10
+e9aaee7a-5220-4b12-b24c-86ca5571543c,Dress,Clothing,10,31,2022-10-12
+e976aa84-d559-4d32-b709-d4b20e36e534,Smartwatch,Electronics,5,76,2023-06-22
+5ecef919-514e-4ada-ae94-a003711f38ea,Video Game,Toys & Games,5,7,2023-10-13
+6fa53c5c-be64-44b1-a9a3-0f85b58c3011,Jeans,Clothing,18,96,2023-08-26
+117274d3-bea9-4f15-a6f7-85d3390868ff,Perfume,Health & Beauty,14,69,2023-08-06
+ff67a13e-5412-4b5c-8a7e-5d96aa2b6d2b,Lawn Mower,Home & Garden,12,53,2023-12-01
+0061670a-98da-47a1-a9b4-1f564b16851e,Smartphone,Electronics,12,81,2022-08-28
+efc33f22-8c41-43c4-9c3e-95579a534254,Blender,Home & Garden,12,98,2023-08-28
+9c1f0c7f-2d50-4066-baf1-71463bc785ce,Puzzle,Toys & Games,4,47,2023-08-17
+c0c2bad3-4748-4ed5-bc83-3a8171b7502b,Action Figure,Toys & Games,8,70,2023-09-11
+5fb16ece-3d74-46a5-ae05-decea2cdb4dc,Shampoo,Health & Beauty,3,23,2023-02-16
+433bbe4f-3b54-40f1-ac13-beaaaf8ec90a,Jeans,Clothing,5,53,2022-05-25
+3c3540fd-361b-4cac-80a2-35dd49447364,Laptop,Electronics,14,14,2023-07-06
+52225dce-c515-4ad9-885b-fb9168c351de,Puzzle,Toys & Games,17,32,2022-02-18
+ff2b17d5-7cfa-4060-811f-4b31f7d4fb37,Drill,Home & Garden,11,20,2022-01-11
+d237f145-435b-405e-9e2a-a0330514052d,Perfume,Health & Beauty,13,71,2022-05-09
+bbf724aa-0d87-4563-b36e-8d2f409d728c,Board Game,Toys & Games,3,76,2022-02-12
+aab92803-0028-4013-9cb4-4bc4739de7d0,Doll,Toys & Games,18,57,2023-10-23
+b1f02061-8d5c-4f52-a76e-e5806dfbb369,T-Shirt,Clothing,2,27,2022-11-21
+1b42c622-c440-423b-b302-7145418a16e9,Toothpaste,Health & Beauty,8,81,2023-08-10
+d1a226d9-fa96-4e8f-9571-cbbec842e781,Dress,Clothing,15,69,2023-04-03
+d9891fed-e43b-4a47-8033-6de9441ff3f0,Camera,Electronics,16,56,2023-11-02
+dc66986d-38ba-40ac-a0a8-a64e80a11e8b,Smartwatch,Electronics,5,3,2022-07-07
+79ee0ae1-7517-4407-9016-cc0a729f170a,Drill,Home & Garden,7,99,2023-08-27
+61d0c9bf-29c1-49df-a745-8845bf369d82,Dress,Clothing,17,42,2022-10-31
+b28323ec-f962-4583-9135-49d5541ee996,Bed Sheets,Home & Garden,20,12,2023-10-31
+6429c56e-c8ce-442e-b160-f88926776b9e,Lawn Mower,Home & Garden,9,64,2023-06-20
+b74242d7-9538-410f-b65a-060fc05def7b,Smartphone,Electronics,1,73,2023-01-20
+950c7a82-9aa4-4745-84c4-a00e2888e92c,T-Shirt,Clothing,17,82,2022-04-23
+b54953ef-a69d-49fd-b05b-bc165a13458a,Bed Sheets,Home & Garden,8,72,2022-07-15
+0322fab1-f5c1-4121-89ca-7da79004fbe0,Smartphone,Electronics,6,36,2022-08-17
+2158e763-2337-4237-972a-f50899f60dc0,T-Shirt,Clothing,16,46,2023-07-01
+7bb1e2cb-1ff5-498f-9a43-98464fb8989d,Laptop,Electronics,5,72,2022-07-03
+fb8ca9a9-5d08-4387-8142-170e88a3cf37,Smartphone,Electronics,14,79,2022-04-30
+02312d96-6c59-4feb-bc3c-0f686de4e4ac,Face Cream,Health & Beauty,16,18,2023-09-06
+49e89154-d33e-4a74-84b3-2e830ffce64d,Toothpaste,Health & Beauty,12,33,2023-04-21
+dab56d2c-8518-4628-ab62-a263bdb67be3,Conditioner,Health & Beauty,16,79,2023-01-14
+ac5d4183-9a40-45ac-8571-a0304f9c9f13,Dress,Clothing,14,47,2023-04-29
+262fd9c4-9285-46c0-baa3-d7ffee9c817c,Doll,Toys & Games,19,0,2023-09-18
+f25a8f34-36ce-4618-9227-2c60db39279b,Drill,Home & Garden,11,63,2023-12-29
+674f295f-9555-47f1-9e37-ceab4b9808f1,Perfume,Health & Beauty,17,2,2023-09-23
+47b5475c-e2d9-4ac5-a9e4-b1224a3199e9,Smartwatch,Electronics,1,49,2023-02-06
+78ec986b-5b79-4df9-9017-2cef76020173,Headphones,Electronics,9,48,2023-02-27
+709b914f-afac-404f-9f19-15297e8f7e66,Desk Lamp,Home & Garden,5,86,2023-12-28
+66294ea4-c0a6-45da-bb2b-36f6f1f01a61,Lawn Mower,Home & Garden,16,33,2022-07-15
+a1e074bb-5fb6-4fba-8d8d-c1007f34b762,T-Shirt,Clothing,2,82,2022-05-26
+b0c0f95b-1459-4914-b32a-013f7a7cca1f,Drill,Home & Garden,15,84,2023-05-20
+3e8225a0-9ef5-4654-a3f7-63557a3d8330,Jacket,Clothing,11,73,2022-11-01
+1e706bee-9643-4ca1-ad37-e8a09662d604,Laptop,Electronics,8,38,2022-08-31
+e6e7c928-ee06-4c58-a10c-f378cff0b312,Headphones,Electronics,20,95,2022-02-19
+cce12a70-f469-4371-89ac-f9c52b37d431,Dress,Clothing,5,2,2022-05-08
+57ad87b8-753d-46a0-b356-75e5a48224f2,Video Game,Toys & Games,20,98,2023-06-26
+00ec29ba-120a-422d-a9f4-c8710d0d2853,T-Shirt,Clothing,16,22,2023-04-24
+fc2d9c3c-d34c-41d6-a28a-4b90e55bc3a0,Toothpaste,Health & Beauty,16,71,2023-02-03
+eb33289e-2283-4463-aacf-6a4266077e4f,Board Game,Toys & Games,6,62,2023-12-22
+f7ce429e-bf27-44f2-baf8-bb0760717f27,Blender,Home & Garden,12,42,2022-03-10
+ebdb306c-3cd2-49cc-b253-8334fa43fddf,Sneakers,Clothing,9,95,2023-03-28
+b74f77a7-a7ab-4c7e-afd8-a762bcd41abc,Camera,Electronics,6,80,2022-09-27
+653e25b2-a3c4-4700-958e-af99fc087ff6,Camera,Electronics,10,32,2022-08-10
+9e18c523-6d10-4b80-830f-ad8578ffff8a,Toothpaste,Health & Beauty,12,32,2022-11-27
+9ecd4480-dce2-4c7b-8c31-75e0fe450b43,Smartwatch,Electronics,8,25,2023-03-03
+71e9c3b2-e44b-4100-a4dc-a042e8e8af8d,Sneakers,Clothing,11,58,2023-10-14
+a367e680-a83a-4098-980b-b313d702f3d4,Blender,Home & Garden,14,62,2022-03-02
+a95d6e77-ff5f-4633-8326-ea645c96ddf4,Puzzle,Toys & Games,4,29,2022-10-04
+de9590d4-5a4b-4a10-99f8-f4e0ef3465e3,Drill,Home & Garden,17,78,2023-02-12
+3457f41b-b36b-4d0f-883b-42f1420db0d7,Smartphone,Electronics,8,9,2022-09-10
+9c36e7bf-f174-4ebf-8629-7775f604812d,Sneakers,Clothing,4,46,2022-02-04
+52b5e8fe-aba1-4d5d-8509-ce8553755dcb,Action Figure,Toys & Games,2,31,2022-08-10
+2dbffacb-19e3-4bf6-bf6a-b14480654d5b,Doll,Toys & Games,5,30,2022-05-04
+fc1011ab-79f7-4d37-aa9b-4a80b0193d68,Perfume,Health & Beauty,20,59,2023-05-24
+2fceeaf8-ba32-4bfd-ab22-4213ffb23a1f,Bed Sheets,Home & Garden,16,58,2023-04-22
+5cee3a3c-aad5-4e8f-9a22-29e6171afb59,Desk Lamp,Home & Garden,1,54,2022-11-17
+279b8236-5ba0-45f4-96d2-a5fb83de9b20,Blender,Home & Garden,17,50,2022-04-08
+9b2f45f9-ac1d-4e18-8949-293ac3c33ef1,Conditioner,Health & Beauty,16,39,2022-02-22
+7cfdb454-238d-483d-a50b-0bf12cfcfe02,Bed Sheets,Home & Garden,2,96,2022-07-23
+97f212dc-109e-428b-8af6-1f399537ed58,Laptop,Electronics,2,17,2023-04-21
+e2fe94b8-1cc9-48c8-9d30-e51c2ceb0657,Perfume,Health & Beauty,9,68,2023-09-16
+b7152a96-8f0f-4efd-82d4-cdc90785471d,Headphones,Electronics,8,39,2023-05-25
+e53d26a2-17f1-40c2-a5dc-9e77ac63d062,Video Game,Toys & Games,8,68,2023-10-15
+875588b4-d7c3-42d2-9889-eb1787381471,Bed Sheets,Home & Garden,5,15,2023-11-03
+affabd92-902b-49e2-9a4a-baacc4cf5ea1,Laptop,Electronics,6,52,2022-01-13
+82885211-0055-454b-bff9-cfc3eaba3320,Headphones,Electronics,9,48,2024-01-07
+85351e13-5b1e-46d6-85e3-d881f6cb5d6b,Sneakers,Clothing,9,59,2022-09-29
+6482830e-f576-41d8-8f89-30fe0c5befdc,Shampoo,Health & Beauty,20,87,2023-05-19
+de4d87a6-cc7d-4ffa-b4cb-48a407e8114a,Board Game,Toys & Games,11,95,2022-07-16
+7998b45a-dd8c-40d9-bd8a-67f339fe171b,Blender,Home & Garden,16,82,2022-09-15
+e3775926-8efd-4c94-9b9d-ab6d5c9f0668,Board Game,Toys & Games,4,9,2022-09-12
+d4a5b314-041d-4a7f-90a5-5c4b85f0bce9,Blender,Home & Garden,19,8,2023-11-16
+58ee0ccd-a1b7-4226-929b-82ab7a3fceff,Jeans,Clothing,14,75,2022-07-20
+e7769cdb-1208-4a7f-b58e-3b636bcb8695,Smartphone,Electronics,16,45,2023-02-13
+0a807507-731f-4e0e-ba4b-ed1bd14295f2,Board Game,Toys & Games,7,65,2023-05-28
+12d3e157-c363-4fec-852c-36b72895dd0a,Drill,Home & Garden,14,85,2023-07-14
+1c713bdb-1a22-4112-a3e9-23b852078354,Conditioner,Health & Beauty,7,14,2022-08-25
+d645851a-2ecd-4346-8b89-e1e14704c090,Sneakers,Clothing,15,29,2023-12-18
+d4461b19-32d5-4328-b508-6f83ce3d9c6c,Jeans,Clothing,12,0,2023-09-10
+c410db48-961e-44b0-872f-73bbf687a7ce,Doll,Toys & Games,8,25,2023-04-01
+78314bc7-df73-4082-931a-a16862fa49c3,Lawn Mower,Home & Garden,16,14,2022-10-08
+e22833c4-6c2e-4266-be59-01574e3fb577,Shampoo,Health & Beauty,14,36,2023-12-22
+287dda12-5418-4894-a0be-7739d1d3de02,Board Game,Toys & Games,7,81,2023-11-27
+b96b3c3b-d07c-4da3-9fad-613b92a77541,Board Game,Toys & Games,14,20,2024-01-06
+4def60f7-a8fd-48ba-b078-3e0c00f63f82,Jacket,Clothing,3,29,2022-10-24
+b5bcd7f8-d41b-48a5-a340-e06c43d56a27,Jeans,Clothing,20,82,2023-04-25
+1bff771b-d629-4b5b-a465-435ec01951c2,Blender,Home & Garden,13,30,2023-05-12
+a3c15573-26f7-4b92-a13b-e8f094262c7d,Puzzle,Toys & Games,17,17,2023-10-29
+93afd015-b990-49c6-9d60-d5cf336869e0,Perfume,Health & Beauty,18,69,2023-03-27
+238cde82-8d58-4e86-a91b-2349a7313eaf,Drill,Home & Garden,19,83,2022-08-13
+0cca1e57-19f2-4a61-bdba-37193d15c26c,Blender,Home & Garden,4,62,2022-09-17
+9b3b6295-feef-4a93-acf2-c2619fdef069,Bed Sheets,Home & Garden,10,61,2022-06-15
+75f130ca-356f-4b7f-9722-fb4f22cc2d01,Video Game,Toys & Games,14,61,2023-11-28
+e09ced21-28cc-48c1-a05e-14298f2bc9b1,Video Game,Toys & Games,10,65,2022-06-14
+249a7ba7-9565-4dc1-9970-0dcdd355a223,Drill,Home & Garden,18,44,2022-05-03
+46216276-600c-4ed9-9340-baa0a9a4c9fe,Face Cream,Health & Beauty,10,44,2022-07-18
+223069f5-fe09-46e4-a6b2-6e4d463d165c,Jeans,Clothing,16,60,2023-02-18
+10924d9d-d72d-4c74-8b77-1c228a396c7c,Camera,Electronics,9,98,2023-11-08
+7daccd37-660e-4b9a-9f9b-e0026a25b6e0,Jacket,Clothing,17,92,2023-05-06
+47e99511-fab6-44f1-8494-d108484ec92e,Board Game,Toys & Games,18,26,2023-06-04
+c6868c11-6211-4b54-ba81-d17dbc6c900f,Headphones,Electronics,10,84,2023-05-23
+bd14a3c5-baf8-4e94-afbb-d737f5934a6f,Conditioner,Health & Beauty,10,44,2022-11-22
+1be5b080-f027-400b-b243-3f0a77aecfef,Drill,Home & Garden,3,94,2023-04-15
+81c8a383-a57e-44bd-b690-49fdc50290fd,Toothpaste,Health & Beauty,3,70,2023-10-27
+20d2550f-c38a-4d8b-8ad7-f0507ab0d441,Blender,Home & Garden,8,75,2022-03-11
+1660092d-13e7-4f3f-9b91-0404e3182146,T-Shirt,Clothing,16,24,2023-04-13
+92ecc5b9-e4c4-46e6-823a-0c6898a7b9b4,Desk Lamp,Home & Garden,9,53,2023-11-29
+e5d13fc3-6a0f-49e8-9a09-b68299770d89,Smartwatch,Electronics,15,66,2023-12-06
+d4fdec21-c320-4b11-9041-b214ebb92099,Video Game,Toys & Games,16,51,2023-02-10
+15615530-69f2-4d81-b34c-10715383f3bb,Puzzle,Toys & Games,2,39,2022-02-22
+1152c912-864e-4444-bd33-b43b11bda142,Jeans,Clothing,14,38,2023-02-12
+c1e6c07a-f723-464e-b7cb-708cf559a4f0,Puzzle,Toys & Games,8,3,2022-03-13
+3af0ea44-eab6-4c1d-a905-e68a3b41a00f,Shampoo,Health & Beauty,16,43,2022-12-02
+c2a4bfc1-58c2-4c79-992f-d8b43b6ff262,Drill,Home & Garden,19,66,2023-04-17
+867699e2-51e5-405d-9eba-3200ae69b73c,Shampoo,Health & Beauty,20,4,2023-11-09
+43c41f40-188b-4e3a-9a71-997b11b0e87a,Conditioner,Health & Beauty,19,1,2023-07-23
+7ed8bd47-e63a-4a9a-aad4-08ada2616dae,Board Game,Toys & Games,1,25,2022-12-06
+d162b982-e1f2-442c-9018-fc66a376b30c,Camera,Electronics,7,57,2024-01-04
+4d6a0dfa-b435-468c-ae17-a9d5f849ddd4,Jeans,Clothing,2,12,2022-10-02
+f956ae79-4f21-4331-b02c-5f0f553e0c6d,Puzzle,Toys & Games,4,10,2022-04-04
+a26fbf4a-e719-4cee-8282-cadeefc791c1,Smartphone,Electronics,18,96,2023-06-25
+0d02b0fb-828d-450d-ae6f-f1e98b74ae50,Sneakers,Clothing,8,36,2023-09-21
+2b47602d-d974-4974-b92e-f0ec045b23a9,Blender,Home & Garden,15,80,2022-01-10
+9b7c9a0b-8c86-4402-b8ca-7dbb1d8fb91a,Jacket,Clothing,2,46,2022-10-16
+099ed0de-ef89-4a11-9182-7a1cd864b395,Perfume,Health & Beauty,9,13,2022-12-13
+36f12a4f-03b2-43da-b701-dd398556b09c,Face Cream,Health & Beauty,20,82,2023-03-01
+a78ce52a-fb3a-4816-8ffd-28d8b6495008,Video Game,Toys & Games,15,5,2023-12-01
+11516fd7-f958-4823-bf83-4b37d2b31af0,Sneakers,Clothing,15,9,2023-07-10
+178195dc-deba-4fc7-9249-0f3a6313b169,Board Game,Toys & Games,16,33,2022-07-09
+29edcf36-0803-47ad-9728-7b1af377c133,Jeans,Clothing,18,10,2022-07-14
+54e89b27-ea12-4fef-8ef4-f2df14472a01,Bed Sheets,Home & Garden,9,63,2023-10-01
+77f57ebc-f90f-43d9-b2ff-23f810291714,Smartphone,Electronics,3,81,2023-06-29
+8259805f-feaf-4040-8efa-938aaaaefe2c,Toothpaste,Health & Beauty,4,73,2022-03-20
+564929f7-04a9-4634-8959-e1aa16d3098a,T-Shirt,Clothing,6,24,2022-09-10
+4581ee6b-6201-4785-b5ac-f7957190ea71,Sneakers,Clothing,11,47,2022-02-26
+0f47bc83-1829-4194-b417-4484e5d4f54a,Jeans,Clothing,6,87,2022-02-20
+73f04462-8dbf-44f4-95e5-04923e853290,Camera,Electronics,7,93,2023-08-05
+6d5bc755-56d6-4cf9-9236-8efe3cd1cc73,Face Cream,Health & Beauty,5,92,2022-04-16
+334e0e1c-13ac-41b5-8684-a871ae8fda94,Laptop,Electronics,4,84,2023-11-12
+d0fdf537-71d7-4901-bca6-373c3f7ad743,Perfume,Health & Beauty,1,62,2023-05-17
+6caed4fd-77ae-471d-9c95-a43da430aa84,Shampoo,Health & Beauty,4,40,2023-12-24
+56554e7a-db92-4e7a-ac0d-4f72babc6fc0,Blender,Home & Garden,9,10,2022-09-14
+bbbabb34-65fd-4caa-b0a4-0defe93d108e,Drill,Home & Garden,1,35,2022-10-04
+7a4b659d-18c8-43ac-bac4-2ad3b47e6d43,Face Cream,Health & Beauty,4,8,2022-06-05
+f6ad242e-7ec0-484a-ab83-54c8dff22888,Conditioner,Health & Beauty,1,16,2022-10-22
+00e5cedd-e6d3-42b8-a110-9dc2678837fa,Headphones,Electronics,13,2,2023-09-02
+4152033f-ac88-4090-a359-a80d0286ec89,Video Game,Toys & Games,17,99,2023-03-12
+87450d5f-fc59-46a4-87ba-dc35c80829e9,Board Game,Toys & Games,16,63,2022-08-27
+03b6d413-99ef-4ef0-a5e7-493019ceb9da,Face Cream,Health & Beauty,10,97,2023-03-31
+6a062b43-73e3-4393-80e3-2f942bd9c3df,Action Figure,Toys & Games,13,95,2022-08-08
+603a08c8-496f-4086-8ef1-9eda2ad0708f,Drill,Home & Garden,18,66,2023-08-07
+8424e6ed-e80e-4220-94af-03bc9cb23f26,Bed Sheets,Home & Garden,12,5,2023-06-01
+eb6fcdcd-4206-4652-acc8-58c56f1e6109,Headphones,Electronics,7,27,2022-02-02
+a7dc6edf-8411-4a1d-986e-8eeec4ea7848,Conditioner,Health & Beauty,10,94,2022-12-02
+8c1b7c32-2166-4fde-862d-b069848ee687,Sneakers,Clothing,20,96,2022-05-25
+4377fe55-736f-444b-ae57-bbec8c7aa6e8,Smartphone,Electronics,10,32,2023-06-27
+2ea93479-4295-4665-9261-a88e646d8d6c,Desk Lamp,Home & Garden,2,8,2022-12-15
+6a7e1c55-f089-489c-b06c-524d18cae3db,Puzzle,Toys & Games,12,71,2023-09-23
+a5b80d45-f318-4b40-b541-3b1bfc07cc1d,Laptop,Electronics,13,10,2023-11-24
+b35c25f1-e392-4453-b84d-c5c21b3d9aa6,Board Game,Toys & Games,9,62,2023-02-28
+b309d6f2-2c08-4f9e-a45f-37095eb4df64,Desk Lamp,Home & Garden,2,67,2022-06-07
+e5252403-b777-4182-b49d-886986905a07,Perfume,Health & Beauty,18,76,2023-09-28
+efcce1ad-eb9c-47d0-8436-0967357b1d5b,Face Cream,Health & Beauty,16,65,2023-04-01
+2d506bfd-8c80-4175-b1d0-2e745fdffe57,Laptop,Electronics,9,65,2023-08-08
+de12de07-169c-4bfd-bfa6-842631b03a1f,Headphones,Electronics,16,15,2023-09-29
+073a7df2-10a9-4cbf-b384-bc2d9e58d9fa,Smartwatch,Electronics,20,17,2023-09-07
+b7ee0e32-b929-400e-83b5-13f7cb650383,Face Cream,Health & Beauty,10,28,2023-06-24
+06233759-2856-4e5a-bc33-cafdb88020c4,Laptop,Electronics,6,49,2023-08-07
+ddc8dafd-8495-4856-99e6-789690a0074f,T-Shirt,Clothing,18,3,2023-12-26
+47386386-846f-4e83-b004-d950279568e1,Toothpaste,Health & Beauty,14,65,2022-09-12
+16180f81-16e3-4ef2-9a39-efa1633c8ea4,Smartphone,Electronics,10,48,2023-05-26
+227d5e8f-f99f-4e32-83c9-1c2c2f758321,Headphones,Electronics,17,81,2022-09-25
+7eebe24e-43ca-4f29-9cb0-306a68c7c9ad,Perfume,Health & Beauty,5,1,2023-05-01
+e1b53b37-e9e0-48aa-8f9d-6e991e91d42d,Face Cream,Health & Beauty,17,98,2023-05-13
+733e2f87-3953-4e69-afa9-7fc156f25882,Dress,Clothing,2,88,2022-07-04
+19d60b33-3898-4d5b-96c5-5b1e48b8aab5,Dress,Clothing,12,25,2023-11-16
+9ad34a5f-19db-45ac-ba40-6f8d9c0a1584,Conditioner,Health & Beauty,12,47,2022-08-22
+d9297956-c081-4c7f-96a6-358be69bb90a,Board Game,Toys & Games,19,76,2023-08-22
+6050c5be-bc75-49d8-8aeb-4c4d66d2f63d,Smartwatch,Electronics,11,14,2022-02-17
+5b91a140-f215-42a6-bf0f-706991fa8746,Sneakers,Clothing,3,90,2022-12-04
+57c25f1e-5306-4498-aac5-4abdfeb18b7e,Jacket,Clothing,1,41,2022-08-03
+aeb22b99-b07b-47fe-b5e4-af275568460a,Dress,Clothing,11,65,2023-06-05
+5aa5cafc-85d5-4aa0-8a7c-8226bab1af0d,Toothpaste,Health & Beauty,3,14,2023-03-16
+86d787a2-3a57-497f-896e-ad6dd1e3d9ba,T-Shirt,Clothing,7,88,2022-09-25
+6fb54c19-872a-4e58-95dd-f8b9a328587f,T-Shirt,Clothing,9,6,2022-12-22
+fb151b94-d6c3-4686-8d77-4b4c0b06d800,Dress,Clothing,6,87,2023-10-01
+c35340e6-78c7-4fc0-924b-9f2faf7e6f13,Shampoo,Health & Beauty,3,28,2022-05-31
+b1cb2ece-78ee-4ecf-988f-955822ca0e8c,Video Game,Toys & Games,13,8,2023-12-14
+113c99c2-0240-45e0-b220-bddaf99ccf12,Toothpaste,Health & Beauty,20,10,2022-06-16
+9d42de1b-974e-4424-bde2-676f9fb99596,Board Game,Toys & Games,4,25,2022-05-29
+84bc6957-24f6-4b62-b7f0-9f1613b6206c,Blender,Home & Garden,17,80,2023-11-22
+4026347a-c3ed-413f-a1ea-07ef867c3546,Smartwatch,Electronics,10,90,2022-04-25
+b3b4d975-7cd6-469f-abca-d5bb8b2bd662,Lawn Mower,Home & Garden,1,56,2023-12-17
+3a316fd1-7c0f-4c62-99b4-94998bac2590,Blender,Home & Garden,1,30,2022-11-18
+8e55ff6a-3ee3-45eb-b6b5-b6eec9ce8bde,Camera,Electronics,15,83,2022-12-16
+0e42320a-53b0-4426-a507-8eb1cd2f7111,Sneakers,Clothing,17,90,2023-10-02
+2f3d876e-fafb-40fe-9833-d8c80dcd19fe,Lawn Mower,Home & Garden,13,96,2023-02-20
+c1b7461c-144d-4759-87f0-0905cbf0ed82,Smartwatch,Electronics,14,79,2023-04-02
+222310f6-4be3-4d2c-9d2f-f1966762973a,Jacket,Clothing,12,82,2023-06-12
+055d11a5-a06b-47e7-9bb4-00fad84031a2,Laptop,Electronics,4,98,2023-12-28
+24afbea4-e057-4ce3-a8d8-ef6107f76715,Lawn Mower,Home & Garden,20,96,2023-02-21
+654ae684-1a5a-4b9e-b5bf-79792a1df8da,Smartwatch,Electronics,15,27,2023-11-17
+6ba5180a-2af6-452a-a82d-622aecb9f910,Doll,Toys & Games,4,2,2023-04-18
+da125fde-3bad-4210-8227-1e6c65620222,Headphones,Electronics,8,32,2022-07-14
+1c0f53ce-cff4-44d6-9326-0c6fe4ad33a3,Toothpaste,Health & Beauty,6,10,2023-01-18
+46b9c50b-c1f5-4cf4-9452-819446e5f88d,Video Game,Toys & Games,20,74,2023-08-16
+eb2a357a-814c-4580-a193-9bafc7ac4766,Puzzle,Toys & Games,6,50,2022-11-16
+6b62f56c-1f12-4e72-aef4-8f28fa6a72df,Board Game,Toys & Games,4,29,2023-07-16
+3adfa6d3-5095-44b4-a290-df81b11f5499,Camera,Electronics,7,58,2023-05-04
+37e376bf-5764-4e5d-9855-0545386672a5,Video Game,Toys & Games,7,90,2023-08-05
+8a5a17db-d087-4220-b79f-3128a4b3aea0,Jeans,Clothing,5,54,2022-09-28
+ed1b806c-d9a9-4277-8178-6352c54bced0,Desk Lamp,Home & Garden,10,21,2022-04-22
+851ed891-1186-4ea9-b784-f2284564a17b,Face Cream,Health & Beauty,5,21,2023-08-03
+5881df92-d498-449b-95c4-96c69fa99b5e,Headphones,Electronics,17,92,2023-01-08
+1fd952c8-ac36-4c6f-afab-c7527825d72c,Drill,Home & Garden,16,68,2022-05-01
+937e56a1-1706-4281-be1c-7216adfe237a,Sneakers,Clothing,8,10,2022-12-18
+2d95affe-1aa9-4b5d-a6cf-d9666dd64d93,Lawn Mower,Home & Garden,3,82,2023-04-29
+9dbca243-fad8-46d4-bde2-96d280d3d489,Camera,Electronics,7,16,2023-03-02
+7f0ae065-3f69-4f8c-9e41-ebb5fdd826a6,Laptop,Electronics,12,89,2023-03-04
+f25dc560-9524-406a-b901-60b7c95008c0,Shampoo,Health & Beauty,12,67,2023-06-01
+9b7f8989-6b72-4ae2-9a20-e94c5dd62204,Smartwatch,Electronics,18,44,2023-07-07
+76f762d7-2518-4aa7-adb8-ead7f58aac66,Desk Lamp,Home & Garden,1,39,2023-08-27
+7a218f93-4174-4b64-8657-9ead95d917a9,Puzzle,Toys & Games,5,42,2023-12-21
+5d20ab13-6985-4b84-88a7-33b0e18df369,Smartwatch,Electronics,5,60,2023-04-06
+18308def-8f05-444b-9d4f-7d81cc149dc7,Blender,Home & Garden,1,43,2022-09-11
+5401b12b-27f7-4959-b584-cc428db5e2a5,Video Game,Toys & Games,15,45,2023-04-24
+559aacb1-710e-4016-b4cb-9e14df25eb32,Conditioner,Health & Beauty,19,37,2022-10-05
+4ce84062-8cbf-49c5-a5d5-14ecc0413b59,Puzzle,Toys & Games,12,83,2023-03-15
+6576ff03-ae14-4faf-a421-6e27f5501401,Perfume,Health & Beauty,7,72,2022-06-21
+f7a3d9e0-bf0e-453e-b640-677be852ccee,Shampoo,Health & Beauty,11,61,2022-08-07
+e6bf5f81-f027-4ddf-b8fe-60b66aa946cb,Conditioner,Health & Beauty,5,84,2023-07-19
+473c723b-3e95-4577-83d5-174bc873db43,Bed Sheets,Home & Garden,13,29,2023-11-07
+3342564d-eac1-4563-8765-e5f2989de512,Smartphone,Electronics,11,64,2022-07-25
+358e4d05-db88-4609-a171-38db92bafe89,Headphones,Electronics,12,25,2023-07-02
+a7d8887a-0894-430f-b7d0-9984e1a61732,Jacket,Clothing,6,0,2023-11-19
+438dcc7d-a937-4e82-aa65-58ccd8b423f4,Board Game,Toys & Games,5,9,2023-12-23
+842087d4-2c50-41ea-943a-015099f8ab8f,Toothpaste,Health & Beauty,1,75,2023-01-05
+935fc655-a8ff-462a-b090-a1d66912e563,Smartphone,Electronics,16,70,2022-09-04
+a7b58629-53d7-4e35-9026-00569ab1d702,Bed Sheets,Home & Garden,14,4,2022-02-23
+dd5fab82-6cf1-4da8-8d71-a096e7f80af5,Jeans,Clothing,2,52,2022-11-21
+84455575-5dad-45d7-8685-bceb1bb8b9f2,Smartwatch,Electronics,11,99,2023-11-30
+8c2e720a-c24d-4ad1-a2ab-4f7e2c7e517d,T-Shirt,Clothing,3,20,2022-06-19
+03697084-26cb-4c8f-9d24-7174ad78c86e,Desk Lamp,Home & Garden,5,76,2023-05-10
+bc5d90a3-98a4-416d-b833-0095771d6ffa,Jeans,Clothing,5,61,2022-03-28
+8524fcb4-db7d-40be-a41c-57ca737db2f1,Action Figure,Toys & Games,11,44,2023-09-15
+ade03294-e0e2-47a8-86d6-20fc3b690aa8,Toothpaste,Health & Beauty,20,72,2022-05-01
+96cb7b16-a1d9-4023-b24c-14e87b4a9d12,Doll,Toys & Games,12,88,2022-04-01
+e303ef16-e9b7-4617-9a77-6ea9cde9b394,T-Shirt,Clothing,10,35,2023-06-10
+92779486-510d-4de1-b19b-02c893a32af8,Smartphone,Electronics,8,22,2022-12-29
+3adb8cf9-51fc-453c-95b0-21b66c9154d6,Smartphone,Electronics,9,48,2022-12-30
+e49a29cf-9115-46ce-b55c-2ace9afc7bd9,Desk Lamp,Home & Garden,2,17,2023-06-23
+75c7faba-910b-4b34-aca1-aa102a05c693,Sneakers,Clothing,19,65,2022-11-20
+1f9853d9-500e-4ee3-9fea-61277fe44934,Smartphone,Electronics,7,98,2023-01-22
+d26bb116-c049-4a4d-9217-2964b08815f1,Jacket,Clothing,10,2,2023-12-21
+346b6abd-eeac-4a51-914a-59c90bd899f4,Doll,Toys & Games,15,66,2023-04-01
+e2f1d32a-cf79-4907-816f-d132a0390314,Camera,Electronics,4,49,2023-06-05
+cec8ceea-8df0-44b1-9050-d0c6536c1ecd,Board Game,Toys & Games,17,21,2022-07-17
+2b877cf8-0051-4490-acaa-b96b932f1452,Dress,Clothing,19,42,2022-04-06
+8bfdcbb9-74c8-4934-83f5-5b630d2c979e,Smartwatch,Electronics,17,87,2022-11-30
+0a2e3d04-93a1-4d09-bd16-2652f965dd28,Drill,Home & Garden,10,30,2023-12-07
+6867a2c0-6ca8-463e-812e-ecfad11b58fa,Jacket,Clothing,7,45,2022-01-16
+a039720f-a4a6-4851-abb3-1ca6f4c7b96f,Smartwatch,Electronics,12,98,2023-03-13
+a8866079-300a-4322-9b9a-1d851f937312,Action Figure,Toys & Games,1,37,2022-03-01
+b8b51bda-1085-414e-91b3-a16e8230f212,Video Game,Toys & Games,13,22,2023-02-18
+2b1c53bd-705c-4266-8700-146074dcc98e,Drill,Home & Garden,5,48,2022-03-08
+738ff636-f148-4e13-a92b-e478c73197a4,Shampoo,Health & Beauty,17,30,2022-07-12
+4104e88e-96b1-4ce6-930e-6b62b5122399,Camera,Electronics,20,54,2022-11-18
+63b43d24-872b-40c6-b1ce-dbefa8d6d1e9,Smartwatch,Electronics,1,9,2023-01-05
+8f9b4be6-ff14-40ed-bfab-1dc40fdcc37c,Puzzle,Toys & Games,20,76,2022-10-21
+fd88bd70-fab5-42df-8d3a-bd63a761ede9,Laptop,Electronics,2,31,2023-05-20
+f9fa551a-e034-49cd-8143-245d4d140309,T-Shirt,Clothing,15,10,2023-02-18
+fbe11385-b443-441c-96de-a4e9d6565540,Toothpaste,Health & Beauty,12,31,2023-02-24
+607a0d9c-1b82-4dc0-bf1c-7f6492ea5c43,Board Game,Toys & Games,1,51,2023-11-04
+2a8ce270-9927-4589-a73c-aca5524834a2,Action Figure,Toys & Games,11,45,2022-01-29
+4d35979c-e66b-4819-98e9-b0c7eec0f827,Lawn Mower,Home & Garden,17,2,2022-05-08
+08166257-e954-4657-96c5-57c7d7b39250,T-Shirt,Clothing,3,25,2023-09-12
+478fdb23-2b50-4660-badc-505409df74b6,Perfume,Health & Beauty,2,89,2023-02-17
+bd834649-2d6c-419e-b46a-7e92c0fdf5a4,Jeans,Clothing,2,23,2022-04-23
+2c9184d3-250e-4bd9-ba27-76c9a99bf4a8,Action Figure,Toys & Games,12,18,2022-04-10
+045aa864-56d0-4727-b041-2b5eb64a4d8a,Smartphone,Electronics,9,95,2023-04-25
+2b513c42-5c4c-4580-a5fa-76a46e68f6de,Camera,Electronics,2,34,2022-06-24
+e1e1ef38-f45e-402b-b4e8-6ba0d113f7f3,Drill,Home & Garden,2,34,2022-06-14
+7d10bff6-ef14-4ca2-8969-14646e0131ff,Dress,Clothing,13,25,2022-10-20
+5f79f563-bf9f-4d32-a05e-e9f8bd3e7b14,Camera,Electronics,4,51,2023-10-14
+6b7b2037-63ad-4927-9e63-8461cbb7f001,Video Game,Toys & Games,19,79,2023-01-04
+aafbabdb-ea46-4e5e-93b9-8d62def68477,Laptop,Electronics,6,13,2023-02-20
+56b7dbb3-c74a-4ec9-8a6b-050589431c32,Blender,Home & Garden,2,1,2023-01-26
+3fc5f7eb-9b4d-40e4-8050-5dacea8d504c,Perfume,Health & Beauty,8,56,2022-02-27
+45a7f025-94e7-4f58-89a9-1d642253005b,Laptop,Electronics,19,77,2022-06-15
+cbe0de34-aad7-4270-95c7-a895ec11d394,Perfume,Health & Beauty,17,87,2022-04-06
+9ab32525-1993-401b-bbff-726bf90b2c0d,Camera,Electronics,3,71,2023-11-26
+8b19fba8-1d1f-4d1d-a27b-63ac756186c8,Smartphone,Electronics,7,87,2022-02-05
+5331f4d8-031d-4990-a31c-b334ae7fbbdb,Conditioner,Health & Beauty,3,27,2023-05-18
+6b28f09c-b4ae-4821-84dd-decfe0d03483,Drill,Home & Garden,14,6,2022-07-25
+b02ab145-2a30-4320-9d56-e7a2ba85829d,Lawn Mower,Home & Garden,16,73,2023-04-16
+cf48c1d3-4373-4bb5-b35e-269e1656ff1a,Conditioner,Health & Beauty,10,68,2022-05-23
+63bd0145-82b0-4cf7-b44e-9a9ae7d1c268,T-Shirt,Clothing,6,55,2023-02-11
+77baa134-95dc-42e9-b263-4888ba60b7d2,Lawn Mower,Home & Garden,17,69,2022-09-25
+bff6d26b-c416-4bc8-a279-34222bb065b6,Smartwatch,Electronics,12,24,2022-06-07
+bdb22b28-0b78-4c91-9c7d-a41605ceb5bb,Blender,Home & Garden,15,54,2023-01-20
+331d5e2b-4ffb-4f77-a487-5ec4ccc5f719,Headphones,Electronics,1,31,2022-12-08
+c62cae2a-b02a-4335-a6f2-3855154f44f4,Camera,Electronics,20,85,2022-12-31
+85a4f2e1-6ba4-4118-833c-ef76d569f9c7,T-Shirt,Clothing,4,14,2022-01-09
+6fb1af10-840e-4f0a-8a1e-33643682eb98,Puzzle,Toys & Games,10,42,2022-04-17
+73c94d1d-b031-4969-9779-f3c902f73abe,Camera,Electronics,2,82,2022-05-05
+72adf54a-4f5f-49df-8dde-e52103526375,Video Game,Toys & Games,16,12,2022-03-14
+62a5f890-bc01-41f1-958f-fac2d70c44fe,Bed Sheets,Home & Garden,9,77,2022-07-13
+a625b7be-f63e-4b10-a78e-171051c1349a,Drill,Home & Garden,10,24,2022-10-23
+32db48a2-fdf1-4e3f-8692-03f32796e185,Lawn Mower,Home & Garden,16,25,2022-04-07
+a5d337ad-d329-4853-a826-ffa4e2a9e295,Face Cream,Health & Beauty,15,99,2022-07-15
+ed3c06ab-0e1a-4ca0-b2ce-1db745525cf4,Laptop,Electronics,11,58,2023-01-10
+61d197c3-e60f-4f4c-b57b-9c7f0c384072,Doll,Toys & Games,20,64,2023-05-01
+4d5959da-b34c-486c-8957-97d4683a9c14,Drill,Home & Garden,11,55,2022-06-09
+d4bcb71b-5cd3-43ca-9ef4-5010a7192885,Board Game,Toys & Games,11,99,2022-07-11
+8176d227-2bee-460c-8807-bdcef0615da3,Sneakers,Clothing,16,19,2023-01-15
+b3033cef-128f-4a10-a79c-ece39a665f90,Video Game,Toys & Games,6,56,2022-10-27
+58f8a1a5-9e05-4fe1-9529-5ec3aed80fdf,Doll,Toys & Games,16,8,2023-01-15
+60dafb33-1ef1-428f-8c26-799a468ba032,Blender,Home & Garden,12,99,2023-11-23
+a9375d21-98ce-4022-97b2-a991c3afcffc,T-Shirt,Clothing,17,95,2022-09-08
+927d43d6-2b91-4663-9a80-651302d0fabf,Smartwatch,Electronics,13,1,2022-05-01
+3b3cec5e-ab9d-4b5d-a85b-1f7344d8fff6,Camera,Electronics,10,86,2022-10-15
+cdef60fc-03f7-4395-9a25-3c51f7e587a5,Puzzle,Toys & Games,5,76,2023-08-04
+014e1cea-68e5-4739-8827-567a72060523,Smartphone,Electronics,12,88,2022-10-02
+56e1e932-41ad-4ba7-a264-510192561daf,Sneakers,Clothing,2,18,2023-11-27
+7e38be05-1fdc-4063-a43f-6245d2c34cc1,Sneakers,Clothing,12,49,2022-11-14
+9e0e0a6d-d11d-4cec-b08f-e24637f2cad2,Puzzle,Toys & Games,16,67,2023-12-21
+3bc3827b-5fa4-4cb1-aeb7-7f4a3f8f67f8,Drill,Home & Garden,6,31,2023-10-13
+7edcf73b-3b71-4a56-8c47-f4ddab5053b8,Desk Lamp,Home & Garden,17,5,2022-08-16
+9e46bd1f-bf68-472b-86fe-bb7c27a2f071,T-Shirt,Clothing,11,61,2023-10-11
+47a141a5-a115-46d3-ae7d-96d83fb3ba0f,Smartwatch,Electronics,1,60,2023-06-19
+bebc6178-8589-4fd4-ba6f-b05f9f233472,Drill,Home & Garden,9,7,2022-01-29
+e5014515-714e-4d14-be65-a52fa78fc688,Blender,Home & Garden,20,14,2022-04-08
+1e9e3eb8-33b5-422f-96c9-6eea7dbdee27,Face Cream,Health & Beauty,5,43,2023-05-22
+3990f5b5-75f2-48e3-a670-a0f98f5fab63,Camera,Electronics,13,41,2022-01-13
+469a9aae-0bb1-4990-902c-b31904099c2b,Lawn Mower,Home & Garden,18,60,2022-07-16
+8ed5710f-b818-459f-a021-7682b40313b3,Dress,Clothing,15,8,2022-04-26
+0b93eb2d-e425-4d4f-b752-0900f3fc43a7,T-Shirt,Clothing,9,73,2023-07-17
+d54fd3ce-de22-418a-982b-8379c6c9ce30,Headphones,Electronics,6,99,2022-01-25
+ade5c93f-0df3-4f1f-aed0-18c597d3d2ed,T-Shirt,Clothing,4,67,2023-09-26
+1284d69a-85db-4175-b963-2aeb591b17a4,T-Shirt,Clothing,10,25,2023-12-02
+20aa0b6c-5315-43f1-a84f-d21ce1f121c1,Lawn Mower,Home & Garden,19,98,2022-12-01
+f565451a-e91c-4d75-be1f-2ef138a34956,Blender,Home & Garden,10,16,2023-03-28
+803a2d40-25be-4477-aa88-421321373d41,Puzzle,Toys & Games,5,95,2023-07-04
+a4fa72f8-11ea-4816-99df-d4e280ff0dca,Video Game,Toys & Games,11,33,2022-04-26
+f9107ecc-dbe5-4a1e-b737-08763ddbdd3e,Jacket,Clothing,15,48,2023-08-02
+aaefbf31-d4e8-4fe9-a325-b13ddcd45a01,Perfume,Health & Beauty,8,88,2023-07-03
+e17ad645-5d15-4388-a3b4-bdabe072afaf,Jacket,Clothing,17,31,2023-02-18
+5f2d9a9b-884f-45a4-b7b8-a472d427c66f,Desk Lamp,Home & Garden,12,79,2022-08-23
+0c4f201a-4bc0-4a4f-ac01-1552155ee8db,Shampoo,Health & Beauty,11,83,2023-07-29
+aba056f5-3d29-47c8-ae31-7d71e5050829,Action Figure,Toys & Games,1,0,2022-12-13
+f27204e8-8086-43fc-b900-d073a0375e1e,Dress,Clothing,17,5,2023-02-01
+379dfc09-3ed2-4e67-ab24-06224783fb9d,Toothpaste,Health & Beauty,5,85,2022-08-24
+c195c0a6-3293-4f2c-9e0e-856a3dae0bbc,Perfume,Health & Beauty,3,95,2022-07-01
+a6555b31-f632-4a34-b5d6-2292a1a2df11,Perfume,Health & Beauty,4,58,2023-09-20
+56fc5309-256e-4ce6-9ad0-18b5739e3ec2,Face Cream,Health & Beauty,9,44,2022-02-25
+088b0097-2485-457a-abb0-2e59a5fe4bb3,Jeans,Clothing,10,78,2023-06-02
+d78422da-daf0-4247-8bd8-2dacdfd1655d,Sneakers,Clothing,6,95,2022-01-29
+541cf69f-3e2b-4c88-8e64-71442f471404,Doll,Toys & Games,2,65,2022-10-22
+2dc2638f-4176-490e-ad4a-26094deaffed,Blender,Home & Garden,7,23,2023-02-19
+89a3ade8-65c4-48bd-bf08-e7bd4243949b,Jeans,Clothing,19,75,2022-07-14
+b3342cff-ff9e-4448-b2ae-c9fdab478e71,Desk Lamp,Home & Garden,4,74,2023-04-06
+ac1c46fa-f4cc-4ccc-8971-92db77926c0f,Sneakers,Clothing,7,39,2023-09-30
+3f99a249-c712-4516-ac93-efceea8bf8c1,Puzzle,Toys & Games,1,79,2022-05-09
+da4a04fa-cc23-4693-abf9-cd42e387045a,Lawn Mower,Home & Garden,10,73,2023-06-18
+b5e8f7f2-4b14-45b7-9cf2-9d0ee4d3aa77,Dress,Clothing,11,39,2022-11-17
+6634f594-c63d-4abe-aff7-7f13d0a1f7ce,Smartwatch,Electronics,18,26,2022-09-12
+3065a205-b1db-467a-8300-3e0d8fb05c01,Perfume,Health & Beauty,9,48,2022-09-08
+4a60aa3f-0ae6-473b-a98f-e45447a2b607,Bed Sheets,Home & Garden,6,23,2022-04-07
+5b7f38af-f92d-4b63-b90d-b610499ebc66,Sneakers,Clothing,19,77,2023-08-30
+93564c81-b92e-4949-8538-7147178447bd,Sneakers,Clothing,5,23,2023-12-21
+e70cf99b-5ddd-4263-b5e6-4ad342558448,T-Shirt,Clothing,18,38,2022-09-28
+c6800231-c037-4be0-8044-72c4e131273d,Video Game,Toys & Games,1,74,2023-09-07
+539c2eca-b7cf-4e44-ade6-e3fcca847b84,Action Figure,Toys & Games,2,53,2023-06-03
+a1b0c79f-c6db-4119-800d-2cdafc4fe63f,Shampoo,Health & Beauty,8,52,2023-09-25
+ca0296aa-1c53-4e18-bbfc-fd3b76f03372,T-Shirt,Clothing,15,92,2023-01-04
+d5345efb-c980-4ddb-b8eb-40022bd8aa19,Jacket,Clothing,19,80,2023-01-17
+0fac686b-3477-4f52-9abb-c254ac81cb23,Camera,Electronics,8,25,2023-08-06
+4a4d668c-b159-4961-9ca6-326bf1c69b6e,Board Game,Toys & Games,8,57,2022-01-18
+5eee306e-6a52-4c55-8f9d-520db00993e8,Face Cream,Health & Beauty,2,17,2022-08-10
+845374a1-8e9a-4e08-9b6e-baec67373d74,Lawn Mower,Home & Garden,2,53,2023-03-17
+c8aabfb6-e99c-4d2b-9240-8f5f0fb2e3b6,Face Cream,Health & Beauty,13,39,2023-11-05
+12cad950-6d32-41cb-b43b-5d2d6f431260,Doll,Toys & Games,11,60,2022-08-26
+85f95b77-ea00-4e3e-826e-5e5b6c4066e8,Laptop,Electronics,18,16,2023-01-06
+84241ce1-c139-46a0-a1bc-2869166f9e06,Toothpaste,Health & Beauty,8,30,2023-03-15
+674aec6d-0af8-4060-a664-3e15c8e8a3e1,Board Game,Toys & Games,14,86,2023-12-27
+c068e113-98bc-42c0-b621-44d5f4700e33,Dress,Clothing,5,10,2023-06-14
+01cec8d0-0b16-4e0b-9453-5083469f02ae,T-Shirt,Clothing,3,18,2023-10-21
+063f1be8-7f1d-4fff-b623-dfbbef16f302,Action Figure,Toys & Games,5,22,2022-07-18
+df7977b6-22df-4c3d-852d-cdb6ba68bdc8,Lawn Mower,Home & Garden,14,11,2023-04-18
+db2d70e5-a1ee-419b-ae8e-a97254135f26,Toothpaste,Health & Beauty,20,85,2023-10-31
+e54dafb8-7ff1-4d54-a245-004ac2d05f42,Laptop,Electronics,16,15,2023-12-02
+0a1c13bd-7d26-450c-85d0-1f12234ddc37,Drill,Home & Garden,16,58,2022-06-24
+735989b8-62c9-4ed8-a14b-6c123efec15f,Toothpaste,Health & Beauty,8,6,2022-06-07
+eb80b668-dbc9-4bc6-8334-2a42f563425d,Jeans,Clothing,15,45,2023-03-21
+f9fd3824-1111-4fca-8e73-c03e200e1454,Smartphone,Electronics,3,60,2022-05-27
+182f8b61-1dd6-405c-b5d9-0d02e8049b13,Conditioner,Health & Beauty,5,15,2023-06-05
+424cac14-d77d-4c11-a24d-f8bf958c3be1,Board Game,Toys & Games,2,2,2023-11-27
+ce38f52e-f062-4a4c-a2e8-2915397af6f5,Action Figure,Toys & Games,10,9,2022-01-10
+3776ab0a-836e-44ad-8e80-b473f3f8db4f,Dress,Clothing,1,76,2022-06-28
+2ae5692d-c837-49de-8b11-e3d37195447b,Headphones,Electronics,10,63,2023-03-11
+18fbf216-faa2-4007-89b9-aa4d75108f8b,Camera,Electronics,15,92,2024-01-08
+c43309d1-bb28-45b4-a4da-566d78b11737,Board Game,Toys & Games,1,40,2022-11-22
+aa1f953c-1ec0-4f55-aa3d-a92fb821dfb6,Desk Lamp,Home & Garden,20,74,2022-10-17
+b4c86094-e93f-46fe-9023-5cfaed29cad0,Smartwatch,Electronics,5,21,2023-05-08
+b52daa4c-d3eb-42af-93ef-892da99ef780,Bed Sheets,Home & Garden,1,68,2023-03-03
+bc56e95b-ee20-4837-905e-086addc8d0a6,Doll,Toys & Games,7,3,2022-03-22
+8c7b0b58-3e06-44a8-a494-9ac0a662d302,Puzzle,Toys & Games,3,93,2022-11-20
+f81657d9-2688-4326-a755-9528b182a871,Smartphone,Electronics,6,26,2023-10-10
+83a74968-25a8-4322-85c2-60c26978df81,Video Game,Toys & Games,5,99,2023-09-18
+d8ae5346-d310-468b-a235-401dabd7a9d2,Jacket,Clothing,6,22,2022-04-07
+cec408a9-c6b3-4bfe-aa56-679d2c28d5bb,Drill,Home & Garden,13,55,2023-12-04
+25d3648f-ac06-4086-b844-b8a93b6c7374,Action Figure,Toys & Games,7,79,2023-02-03
+9656a2d5-32a1-4b5c-9721-49d87d9089ad,T-Shirt,Clothing,7,72,2023-09-08
+36687b82-8742-4b4e-a693-224c3fa1c5e2,Puzzle,Toys & Games,6,75,2022-02-24
+4f01ef3a-c388-4e15-8ac8-ac25cc33cb3e,Drill,Home & Garden,15,50,2023-09-25
+36b5ee13-774f-4a75-8f70-e1ecfb8a2a4f,Doll,Toys & Games,12,80,2022-03-17
+406c9c10-197d-4287-8024-98f1fc2ddc98,Laptop,Electronics,9,96,2023-02-16
+e4b5e439-7403-48a0-aca2-51336b250e2e,Perfume,Health & Beauty,2,5,2022-04-14
+cc40e4d2-46f8-4903-b1e9-4cace42d8bcd,Video Game,Toys & Games,6,0,2023-03-13
+8ddfb559-c60a-4005-b4fd-0c3cb587d2cd,Jeans,Clothing,15,55,2023-02-04
+03630605-efcd-4138-815c-f392e13af3f5,Face Cream,Health & Beauty,19,24,2023-11-30
+449be5a0-db18-4bc0-86af-0dd68b7bf0e6,Face Cream,Health & Beauty,17,35,2023-08-20
+28143542-22c2-42d5-8861-fb97216ca2ab,Blender,Home & Garden,13,76,2023-02-22
+edcfefa9-4507-45da-990d-dd9ea2389dc1,Puzzle,Toys & Games,10,3,2022-10-04
+af72b633-8ec1-44c9-be13-e7cf8252b492,Desk Lamp,Home & Garden,15,80,2022-11-19
+2a498873-d8af-4e44-8cf8-25ac8a10e8f3,Toothpaste,Health & Beauty,4,10,2023-02-21
+c5fe7c6a-1714-4961-b6be-b0b8132063ad,Doll,Toys & Games,8,59,2023-01-28
+3ee8f604-93bd-4130-a65b-37a11cfb7fec,Puzzle,Toys & Games,13,27,2023-02-24
+9c22dcbd-715a-4995-b134-27e5913402e9,T-Shirt,Clothing,7,35,2022-11-09
+2b819908-4536-48ff-b555-debaee318237,T-Shirt,Clothing,15,29,2024-01-02
+fd535c96-2948-4107-8331-18a5c1509ffe,Action Figure,Toys & Games,1,57,2023-08-21
+ed4b6aac-bcf0-4e55-bef5-0701d88d4cce,Camera,Electronics,10,56,2022-03-01
+5a9caae4-46b1-4af2-b9e5-01e1abbb25ca,Jacket,Clothing,10,33,2022-08-23
+0716259f-beec-43c8-91d5-94ffd8350425,Shampoo,Health & Beauty,15,51,2023-07-13
+5fa5cbab-4dbc-4149-b8d6-22bbc39e59bf,Laptop,Electronics,6,94,2022-10-22
+275409f1-96ed-46c7-9ff6-3e704c610e19,Headphones,Electronics,8,6,2023-12-23
+5127caa8-f1db-40dd-8e7c-dfa897047698,Smartwatch,Electronics,7,84,2022-05-06
+d6373879-9a7f-456f-b116-54b66617a043,Desk Lamp,Home & Garden,19,27,2022-02-19
+7b1da40d-89f9-4ce9-ba3f-736a6ddc7934,Bed Sheets,Home & Garden,5,64,2022-02-24
+aac9a40a-a606-4d2c-bf3a-5dc20c891a2d,Action Figure,Toys & Games,11,59,2023-02-13
+6a1276c1-28be-4913-abed-121ed4571e8d,Lawn Mower,Home & Garden,6,62,2022-09-21
+ba320ba1-e6d4-450f-9fbe-237ca568e0a8,Doll,Toys & Games,7,61,2022-11-27
+53bfeda9-f768-4ca9-a6ea-ef770b638a56,Headphones,Electronics,11,57,2022-05-17
+fb8ba360-bbdc-42e5-95ae-3484e8b19227,Desk Lamp,Home & Garden,11,98,2022-02-15
+237d78d4-ebf3-43f7-ab89-4e2f1acde779,Desk Lamp,Home & Garden,3,40,2023-04-01
+fe11e9e5-6763-439b-8e22-afb9c6148af1,Drill,Home & Garden,11,2,2022-03-02
+d2a65a15-64b0-4ef4-a528-59d2e4bac06a,Conditioner,Health & Beauty,13,38,2022-08-28
+7e872027-82b6-4ead-b65e-c52e9e8ee6d6,Jacket,Clothing,3,94,2023-06-23
+5dd0adea-67dc-4c92-850d-a5a0f6b165b5,Desk Lamp,Home & Garden,8,42,2023-11-29
+5d7e0e93-4b85-47b6-a064-c8e6e2a8547d,Shampoo,Health & Beauty,2,59,2023-04-21
+c6da9c2a-fc0c-41c1-b731-9b7ff27b0ae3,Puzzle,Toys & Games,6,22,2022-12-10
+073f604b-3e01-4566-9a3a-e258da8e8b9d,Doll,Toys & Games,20,77,2022-05-11
+e51ed844-d185-4257-a0c6-c0d175e83814,Blender,Home & Garden,13,31,2022-04-30
+b9fbfbe1-886d-4889-a12a-91fdf0c663a5,Board Game,Toys & Games,17,4,2022-05-13
+82ff9983-bbe3-4050-abe0-01a2ecaa4171,Jacket,Clothing,16,50,2023-05-28
+9374de29-27eb-4f16-92b4-34432cec3a61,Drill,Home & Garden,12,49,2023-04-11
+80f616d1-8069-4ae0-8af3-8b6eae61c062,Puzzle,Toys & Games,4,1,2023-05-05
+7e52db7b-c273-4b0b-bfef-1d74947a2964,T-Shirt,Clothing,1,96,2023-07-03
+c82187ac-795d-4b96-b88e-cb7c6add12ee,Toothpaste,Health & Beauty,4,40,2023-07-10
+ae83af6f-8b64-4bd8-bc4c-d74a93752384,Dress,Clothing,18,17,2022-04-14
+2b4a7fe7-bd03-49bc-8ff1-4df97ef96aab,Lawn Mower,Home & Garden,9,5,2023-12-25
+22ecc3e7-cd69-46ea-a786-16533ec42d08,Headphones,Electronics,1,20,2023-06-07
+38a98c43-05dd-49fb-ad27-15ad983e06a7,Laptop,Electronics,7,89,2022-01-24
+e304d479-b1d7-4383-a432-7c0503f0af7f,Jeans,Clothing,18,62,2023-09-12
+d5843df5-adbb-48c2-9f89-8adad6198744,Laptop,Electronics,3,89,2022-01-20
+f52d82a6-bb16-4abc-a006-0b2666877264,Video Game,Toys & Games,10,77,2023-06-25
+140b9ac2-7829-4653-8afc-46a5e2c051c7,Bed Sheets,Home & Garden,20,61,2022-10-10
+0e68847f-3c43-4972-a3b6-d7774f6de77c,Lawn Mower,Home & Garden,13,27,2022-08-30
+faada05b-ece7-46b3-b47a-b51db0d7ada7,Doll,Toys & Games,3,26,2022-08-31
+27c94b0c-c4d6-4bca-8db5-aff340cdd259,Laptop,Electronics,11,11,2022-07-21
+ae865794-668a-46ea-9bb5-95f43d67a9da,Board Game,Toys & Games,5,64,2023-06-05
+f93a4d6f-7776-4279-80c3-9430c70d15cb,Video Game,Toys & Games,16,22,2024-01-08
+658fc5fb-4ef1-46b0-93ae-ae2ed3776472,T-Shirt,Clothing,10,15,2023-03-03
+a2aa5ddf-cabb-4ed5-aeb9-2c8d33ade695,Board Game,Toys & Games,7,24,2023-11-05
+1ec5b37f-bd10-4e1d-ab0d-c22bcfc8751b,Bed Sheets,Home & Garden,1,25,2022-08-09
+527b23fa-bde7-409c-a946-a6ef6a4e1e12,Lawn Mower,Home & Garden,19,37,2023-12-17
+35990c87-38e2-4562-b978-2f3f91252d73,Smartwatch,Electronics,9,11,2023-04-19
+3ced54f9-8020-4424-bca0-a49c5afd5991,Blender,Home & Garden,10,69,2023-01-14
+de49b514-41d8-4559-9629-c0fef853621d,T-Shirt,Clothing,9,8,2022-07-25
+f2be3ad8-a76e-473a-97ee-edaf1360f113,Video Game,Toys & Games,1,33,2023-07-09
+22aef864-8306-4d31-aec4-5938a32e8ce0,Doll,Toys & Games,7,46,2023-08-20
+18a8c227-f9d5-4d07-86e1-3741058f4bf7,Drill,Home & Garden,17,11,2023-12-19
+40dba701-9e5d-4f72-8f5b-0f1ce54d0631,Conditioner,Health & Beauty,6,18,2022-04-12
+9be6d89f-9142-4ae9-b2ee-76f11229f677,Conditioner,Health & Beauty,18,1,2022-02-08
+d18bf65d-411b-4c69-a6ed-c19caf53d15e,Conditioner,Health & Beauty,20,9,2023-04-05
+33c14a56-63d5-4046-8370-916c481871f0,Drill,Home & Garden,14,81,2022-06-30
+71c703cc-3b6c-480a-be1d-5f3bed32fb47,Dress,Clothing,5,48,2023-08-06
+656d5819-8443-425c-980f-8639d39bf112,Jeans,Clothing,8,32,2022-05-22
+46ad54ac-5c9e-4112-8fcf-9f308182f863,Dress,Clothing,2,66,2022-11-14
+91455951-0346-4b4e-bcdf-9bcb74649832,Headphones,Electronics,13,5,2023-08-26
+88fa980d-b17a-4984-8377-284c156b1a4f,Board Game,Toys & Games,15,52,2022-05-13
+f258b1fd-ef8a-4518-9b02-bfcab8592a57,T-Shirt,Clothing,17,3,2023-07-17
+5e5722c0-2116-4c88-8f88-01f3fa9dbfe4,Desk Lamp,Home & Garden,5,83,2022-02-23
+8e9f2a6a-3eac-4b5d-b307-2cc40dbcbf09,Bed Sheets,Home & Garden,20,47,2022-01-24
+64d6dd92-052b-4b5d-9db1-13e4131bb744,Doll,Toys & Games,12,99,2023-07-08
+68abdb27-4624-43b9-b2b4-449de3ebb98b,Blender,Home & Garden,16,59,2023-12-25
+58ad05a9-da4e-4155-a930-acb1c3923a6f,Blender,Home & Garden,17,21,2023-10-14
+7f43d317-e1bb-4a87-b654-92dd3fe6cb6a,Puzzle,Toys & Games,18,18,2022-02-15
+0d86296e-74e9-48b5-abeb-e3ab1444eb82,Video Game,Toys & Games,14,1,2022-02-26
+a972f39e-236f-4fc4-908a-f1f24c7be490,Doll,Toys & Games,3,5,2023-09-05
+8b7a0ec0-0e7c-4a0b-ad40-2665d56b898c,Face Cream,Health & Beauty,6,13,2022-03-19
+b9e06c16-54d0-49c0-8298-794c47946dc6,Lawn Mower,Home & Garden,7,62,2023-09-12
+c29bbcc2-a3bc-4572-8c81-bfd054045fb0,Doll,Toys & Games,14,94,2022-08-17
+6dbda092-d7a7-4232-8f27-45cdccb68901,Video Game,Toys & Games,8,90,2022-12-06
+79a24dbd-2ad2-4cd1-be75-d8ec78f6c04c,Laptop,Electronics,20,50,2022-01-13
+a213fa30-1754-40a8-9642-66669dafd10c,Lawn Mower,Home & Garden,15,81,2023-09-20
+bee0abe8-f0a9-4111-8c48-914525b08e9a,Camera,Electronics,17,8,2022-02-21
+53a42e04-caaa-4be5-9f93-5be785f9d7c4,Conditioner,Health & Beauty,12,93,2023-03-30
+d2981ac1-0ea7-4e80-af69-e4a62ee96745,Doll,Toys & Games,10,59,2023-06-03
+4435d80d-a421-422f-bf65-b9fbf3096aff,Jacket,Clothing,16,45,2023-05-04
+9444bce0-b8ef-4cde-8461-9df425dbf61b,Camera,Electronics,7,83,2022-12-28
+3500a63b-85b7-4c6e-9bf6-cd73ff1e97e9,Shampoo,Health & Beauty,7,19,2023-11-14
+ef23f7f9-fef4-4ed9-9772-0d84ebf60671,T-Shirt,Clothing,8,50,2023-01-29
+e6f8cfe4-cc1b-49f7-aa39-48684ae1c0b0,Video Game,Toys & Games,12,27,2023-02-11
+48fd3f09-d327-4614-8916-7e462a5724de,T-Shirt,Clothing,6,53,2023-09-17
+5fdffcb9-1b16-4ef4-8f5e-627a97446d29,Jacket,Clothing,18,95,2023-11-24
+5f0d2122-69d1-427d-8415-e41bbbda0d68,Drill,Home & Garden,8,29,2022-02-08
+8b945109-d9cd-498b-8f70-6aafbbd108da,Perfume,Health & Beauty,7,96,2022-07-10
+710be073-b161-4849-9637-194b34dbbf9f,Smartphone,Electronics,9,32,2022-05-19
+b43cf1fe-edae-4f16-9ed1-6f260dc912c1,Toothpaste,Health & Beauty,2,88,2023-09-28
+685ff212-beac-4d74-bee0-688c25a78ef7,Shampoo,Health & Beauty,15,5,2023-05-26
+e37d0175-76ac-4c2c-b5d1-9059354387db,Bed Sheets,Home & Garden,1,88,2023-05-30
+cb67c025-e546-4a5f-89a2-73638eb3e4ad,Smartphone,Electronics,19,83,2023-11-25
+a2092162-e37a-4edd-baf1-eb2abb76dac4,Perfume,Health & Beauty,3,71,2022-09-16
+e038d024-d176-4a70-9ff8-93b96fd7bbf3,Video Game,Toys & Games,6,76,2022-11-23
+1adb5c73-d928-42b1-81ca-300ae14f1007,Smartwatch,Electronics,14,34,2023-03-14
+b6254b7d-6a0e-4bbd-bac9-59bd9ee30baa,Bed Sheets,Home & Garden,9,80,2023-10-31
+9cbd77b6-a78a-46c1-a931-0145bf1a2409,Jeans,Clothing,9,22,2022-05-05
+15d6543c-ec1b-41a6-9e60-3e2fbdead4d8,Headphones,Electronics,2,81,2023-06-20
+f65972f1-8d6a-48c3-ae14-c9b8d34d03e8,Headphones,Electronics,10,69,2022-02-27
+4f45e5d3-6381-454f-aa83-0ff798329c2e,Desk Lamp,Home & Garden,15,15,2023-01-12
+f9b4f0ac-3f94-4ada-82f8-a61a837b0145,Face Cream,Health & Beauty,8,0,2022-08-01
+8efb0cd9-0085-406c-b5a9-b1b784c87b95,Drill,Home & Garden,19,83,2022-11-09
+2c0d01bb-87d2-431a-ae79-1fb66cc60da5,Jacket,Clothing,13,0,2022-09-06
+4c0849bc-4ba4-481c-941f-4a12cd1025d5,Dress,Clothing,6,38,2023-01-02
+05294e6c-8938-4146-ae02-1c5f387b38e1,Toothpaste,Health & Beauty,14,39,2022-02-01
+d9042bab-2673-4044-bdda-9da2530e641d,T-Shirt,Clothing,7,20,2023-03-17
+72b32e4f-b499-4098-8076-198fd94973f4,Bed Sheets,Home & Garden,1,14,2022-02-12
+24c24c91-183e-4bdb-bfeb-a78a64a29176,Drill,Home & Garden,10,67,2023-04-19
+0c454180-6da6-48c9-a573-3fd997e5f18a,Perfume,Health & Beauty,6,69,2023-05-11
+9ada78e6-fa5b-4321-82bf-a2a82e9106a6,Shampoo,Health & Beauty,9,51,2023-01-31
+165a7a01-83ee-4b66-a44e-dbbd6c365df4,Conditioner,Health & Beauty,9,51,2022-10-20
+fa94fd2a-0a53-465b-a068-2ab676429e58,Drill,Home & Garden,13,53,2023-03-16
+71379188-7d9d-45d7-a22f-f67fce60a3a5,Perfume,Health & Beauty,6,23,2023-07-01
+6112e71f-14b0-4522-b963-c55324d47f6f,Smartwatch,Electronics,20,89,2023-04-27
+94c7051b-80d5-4dfe-a46b-2107d9b8a8d6,Conditioner,Health & Beauty,12,62,2022-12-15
+ce5a7bb5-99e4-475c-90a4-35a75d508dcf,Conditioner,Health & Beauty,6,83,2022-08-17
+1dfa71fe-69ad-4dd4-b991-571d5950c9bf,Headphones,Electronics,18,52,2022-07-09
+ca647187-348d-44f2-b559-80c5b6bd616e,Video Game,Toys & Games,14,57,2022-12-28
+1a4e1296-a12e-4407-93af-af92f9f4f8ec,Jacket,Clothing,13,4,2022-10-11
+71954ac9-286f-49ee-9004-96a3a1aaf2f6,Video Game,Toys & Games,4,0,2022-03-16
+283f4d5d-54b5-4668-a87c-33af897063ee,Smartphone,Electronics,15,92,2023-09-06
+13a6f905-7cd3-4445-8acc-380483e8e1d4,Bed Sheets,Home & Garden,13,66,2022-05-05
+6bfa9e06-5b85-4409-8ea1-ccdfa4b0bd62,Shampoo,Health & Beauty,13,36,2022-06-29
+4bebe7a8-26f6-49e2-b67d-e7d7a10870b9,Jeans,Clothing,1,73,2022-09-01
+875ba1ba-6596-4f35-a57a-665b770e8b8b,Camera,Electronics,2,67,2023-12-12
+ddc2d68d-bd1c-4db5-a564-5d6ba6170d74,Jacket,Clothing,12,85,2023-08-23
+96371dd0-e480-4d35-b429-1a20589d53f2,Camera,Electronics,14,50,2023-07-05
+c095e2ac-29ec-42a7-9605-21d6564461c2,Board Game,Toys & Games,13,48,2022-03-12
+51729975-b3f1-4854-b436-26f74544f96a,Board Game,Toys & Games,3,27,2022-05-12
+4858a660-11f7-486b-bff0-b24bea952dea,Puzzle,Toys & Games,10,52,2023-10-26
+4b478ba7-2fb2-48fa-b159-5bc5113990ca,Video Game,Toys & Games,20,58,2023-09-05
+fcbc0032-c13e-4426-82e7-2df47b12cee8,Action Figure,Toys & Games,15,25,2023-06-03
+926b226a-332b-444d-9c8a-291d2d562500,Smartphone,Electronics,12,48,2023-12-12
+621c3329-00e4-4643-a23c-268ffc08d5b9,T-Shirt,Clothing,10,53,2022-03-30
+569968b9-9177-4f62-b52e-7c02dfcd7561,Video Game,Toys & Games,8,14,2022-07-22
+85c8e33b-6470-4c31-bc1f-36b94fc87cc4,Lawn Mower,Home & Garden,13,45,2023-08-20
+e0eb3b58-75f5-4bad-ab97-c6f6367f28bb,Drill,Home & Garden,13,87,2023-10-25
+8b7065b3-976f-41b0-a986-abbf294dc3b3,T-Shirt,Clothing,10,7,2022-09-01
+fb1fb990-a4b1-467b-afbd-e3bf4ad2dee1,Camera,Electronics,13,17,2022-09-23
+4945ae79-3cb2-44c6-808b-0e99935529dc,Smartphone,Electronics,16,17,2022-08-26
+3c265fad-a958-4c37-b15f-806f7c710662,Action Figure,Toys & Games,4,58,2023-10-21
+139f3cf1-09d7-4fed-aaa5-3a22dd6ab83c,Action Figure,Toys & Games,18,97,2023-10-24
+567fe376-477e-439a-8248-d4a074420832,Headphones,Electronics,9,79,2023-09-06
+a5e35399-b665-41c8-a44e-d26261495ca1,Action Figure,Toys & Games,19,50,2022-03-22
+ab3bb5de-5796-49e3-92ea-7ec7078c6f39,Camera,Electronics,19,39,2023-03-09
+77126489-6eea-4574-ab38-02d729871a5a,Drill,Home & Garden,2,56,2022-04-08
+b5e3831a-5b43-4f18-ba9f-194375d817e5,T-Shirt,Clothing,4,86,2023-10-04
+dcbd2fac-0a5d-4bf4-9f9c-aa0586b4cf2b,Board Game,Toys & Games,18,80,2022-07-01
+b3a1c23f-9ad9-4868-b815-d115f3810d1f,Video Game,Toys & Games,5,9,2023-09-01
+3b87388a-3012-4ad9-ac4d-a17ed9d6906f,Laptop,Electronics,3,3,2023-11-27
+0b25430e-8ed6-4729-9316-0691f7e0fa6f,Blender,Home & Garden,1,6,2023-05-01
+262a29f1-f476-45b5-a7b5-5347e1b9ac7f,T-Shirt,Clothing,13,92,2022-05-09
+5ee1a835-c365-44fc-a451-83dcf47c23a8,Doll,Toys & Games,7,30,2022-08-27
+060b9ab5-1668-4f3c-b4d6-b561105878aa,Smartwatch,Electronics,5,91,2022-10-02
+1104612d-ee05-4bd3-a68c-1d85d58d3e1e,Dress,Clothing,14,12,2022-06-09
+849dad37-057f-40b2-a9a9-1bbc4e9d03ff,Action Figure,Toys & Games,17,71,2022-02-22
+7b0244d4-584d-4e3e-be46-318fa2d3a158,Toothpaste,Health & Beauty,3,12,2022-10-07
+08d092c9-acbe-43ad-b565-ac4e26afdb3a,Toothpaste,Health & Beauty,8,27,2023-02-20
+1d7480d5-23f3-4ad8-9d3d-1dd5f876fd40,Laptop,Electronics,9,72,2023-07-08
+e304c4b8-841d-4675-8b3e-48a108675a8d,Bed Sheets,Home & Garden,19,73,2022-10-02
+405eaa92-dac9-4686-8abd-2c22fef60736,Headphones,Electronics,3,61,2023-04-17
+b646132a-fa73-4182-ae5e-bfc8f6ad2497,Puzzle,Toys & Games,20,23,2023-01-21
+bccb96a6-852c-4416-82db-c6ae9c1f18ac,Jacket,Clothing,14,55,2023-04-02
+f7c1c201-0607-4aef-9981-ceb27bf0c299,Laptop,Electronics,12,10,2022-04-13
+92dbdce8-3210-4c0c-9c51-61d41c6bbb7a,Perfume,Health & Beauty,16,52,2022-08-24
+b008dab9-5913-496c-90e3-e7755036c885,Headphones,Electronics,18,38,2023-03-14
+a61acbc2-cacf-4e1f-8afc-252d758ad796,T-Shirt,Clothing,18,41,2023-08-13
+97994ccf-b1e9-4872-8bb6-005dd5effd5a,Desk Lamp,Home & Garden,13,27,2023-03-11
+bed6f680-9094-4ec8-99b6-c1b8edba6102,Video Game,Toys & Games,12,21,2023-07-24
+dd97729a-596b-420a-8f8a-9396a49ea9d7,Drill,Home & Garden,13,0,2022-12-22
+86309748-b527-4f0b-9629-4410ab6bad59,Doll,Toys & Games,1,79,2023-09-13
+84b2a2fa-333b-4a4e-b68c-31389bba211c,Laptop,Electronics,7,2,2022-05-04
+9d327705-3053-4b44-8965-74b3bf309709,Doll,Toys & Games,8,60,2024-01-01
+ffdceb52-77fb-45aa-9183-1ccf4e6fb6a8,Video Game,Toys & Games,8,93,2023-02-06
+fd8f3e22-69c0-4d00-8b4f-1b690ac43d93,Action Figure,Toys & Games,14,99,2022-07-03
+374cad65-2454-4b55-bf48-1a61d490cfd9,Bed Sheets,Home & Garden,8,80,2023-07-28
+4093dbd7-ddbb-4ada-922b-7e9da45b2549,Blender,Home & Garden,2,28,2023-10-27
+7cad03a8-d5e5-42e6-868f-39bd3c6df485,Conditioner,Health & Beauty,11,56,2022-07-19
+8bef3335-3fa0-4f5a-b211-9f344c3d0544,Bed Sheets,Home & Garden,12,92,2022-04-28
+e62d8789-e8a3-48bf-8ebc-eae6f9e487f6,Headphones,Electronics,12,3,2023-04-28
+88112b5b-efa3-4e81-9d89-f31d6e6ce9e5,Bed Sheets,Home & Garden,16,79,2023-07-31
+15ee2e34-fb21-474e-84cd-d6d1da1259d0,Blender,Home & Garden,3,38,2023-05-02
+173a1797-3729-4fac-b17e-39e620908978,Toothpaste,Health & Beauty,16,34,2023-09-03
+6e889d96-546a-4e6f-a9a0-eb77d555a6d2,Doll,Toys & Games,7,79,2022-06-05
+3da22ca3-fc7a-47ff-8b72-6f6fe4424978,T-Shirt,Clothing,9,61,2023-01-22
+b054dd2e-7a48-4017-af4f-65c1f3d70069,Video Game,Toys & Games,6,97,2022-06-23
+852da3f9-6648-4647-86dc-ab7f9eb07ce5,Bed Sheets,Home & Garden,12,97,2023-02-24
+60341f6b-e8ab-46a5-85c2-83598ac44812,Laptop,Electronics,18,63,2023-02-26
+98173b0f-2cf0-46c7-ae6f-32cc62f2785a,Board Game,Toys & Games,7,99,2023-05-26
+ba3f013e-0841-43ed-a585-b8049fdee85f,Conditioner,Health & Beauty,7,81,2022-04-02
+8a0fc8a1-0705-4e06-bf2e-56cd18250984,Puzzle,Toys & Games,5,45,2023-01-17
+1604a11b-4da0-409f-835b-acba002eb04e,Shampoo,Health & Beauty,6,47,2022-03-14
+593cc686-359f-4830-8715-c9c85060e6bf,Laptop,Electronics,4,18,2022-12-04
+0d9c1038-7878-44fa-a2cd-0e991c51a847,Camera,Electronics,14,64,2022-01-14
+1356897a-092e-4394-b833-11487bc0a230,Doll,Toys & Games,9,28,2022-05-01
+158a6c37-04bd-44f1-a3d7-d30a7926b88b,Desk Lamp,Home & Garden,13,92,2022-02-27
+e9747438-9513-492e-967d-21a205724c38,Jeans,Clothing,4,36,2022-10-22
+16a60706-a92c-4574-bc7b-20318c98a1e9,Doll,Toys & Games,20,38,2022-05-16
+c3437fdf-a217-4afd-a774-575a0a9d1701,Toothpaste,Health & Beauty,20,39,2022-05-22
+0b6970a2-407c-46a2-a275-a78a346043f2,Puzzle,Toys & Games,11,99,2023-03-10
+fe6117d5-a618-4c4c-91fd-d3b2b86b3d99,Shampoo,Health & Beauty,17,98,2022-05-16
+18ac5f06-e59d-4c51-b653-8c8c5a81e7c3,Lawn Mower,Home & Garden,11,52,2022-12-04
+9b5813f4-d698-47c5-877b-5a25052f1813,Drill,Home & Garden,9,27,2023-06-10
+9022fbc2-06b8-4016-a7c0-96da100045ef,Board Game,Toys & Games,6,85,2023-06-03
+b7e14f51-7989-4b31-b5d5-15bf9ee99889,Drill,Home & Garden,15,82,2023-12-04
+50f1c52a-0411-4d1a-b60c-9fb5202ae50d,Drill,Home & Garden,16,50,2023-08-02
+d3ff1fdf-50c1-43b0-806e-52a2c8a8bc30,T-Shirt,Clothing,15,31,2023-04-19
+d5df7246-6827-4a48-9b65-93bfeef234e6,Desk Lamp,Home & Garden,5,29,2023-05-11
+076a55ef-b74c-450b-985b-d1ba57441eec,Sneakers,Clothing,17,96,2022-08-28
+632ee441-34be-4b93-b70c-9859e1e8c7f0,Smartphone,Electronics,15,57,2022-02-06
+1d1343f4-ee99-4a7b-8451-d3e88785ebdc,Jeans,Clothing,14,60,2022-06-16
+958ed961-6aa8-42d6-8246-c3917419788d,Lawn Mower,Home & Garden,10,94,2022-10-15
+cd3b33f0-d9fa-4907-9cc4-fccd0baac6cd,Camera,Electronics,17,36,2022-10-27
+67f5ed54-8845-4125-89a7-f4caa86864c8,Toothpaste,Health & Beauty,19,6,2023-11-23
+0c112ce5-9d89-4beb-a51f-1f380c082df5,Face Cream,Health & Beauty,10,7,2022-11-14
+4b09d75a-9128-4be9-87db-81f0aadeb09c,Desk Lamp,Home & Garden,2,94,2023-08-26
+c6c8c924-11c9-4561-a214-281c36a3d624,Toothpaste,Health & Beauty,5,64,2023-10-05
+f545482c-43fd-4eb3-9c95-0c445c2f4cf9,Conditioner,Health & Beauty,2,1,2022-11-15
+5b147b99-6142-471e-830f-ad732c2375f7,Lawn Mower,Home & Garden,6,95,2023-01-12
+0307b6ef-cd3f-463e-a74f-8ec8f282b508,Dress,Clothing,5,58,2022-10-14
+103136c1-a625-42b6-84fe-f5040c6ebace,T-Shirt,Clothing,20,27,2022-03-29
+eb89a4bf-725a-40ee-8742-5331d9fdc7f4,Action Figure,Toys & Games,7,88,2022-08-22
+b4995b98-3b9d-487a-9439-4f3314da324a,T-Shirt,Clothing,13,22,2022-02-27
+dd72e76a-1e31-4368-b026-aae3b60d1665,Headphones,Electronics,1,56,2023-09-06
+d32fd1f3-7a99-4d33-a26e-1524fdf469c8,Bed Sheets,Home & Garden,16,44,2023-03-02
+98bd63df-a9ad-4c69-9e47-dfdbf308ae8e,T-Shirt,Clothing,2,62,2023-03-04
+cb720f63-0ceb-4808-a9c8-a13dbcc14759,Toothpaste,Health & Beauty,5,33,2022-02-01
+35f469cd-3617-4c5b-b13e-9f604e9c5679,Doll,Toys & Games,13,9,2022-05-21
+63eebeaf-43a9-4d86-9b4f-815472288025,Bed Sheets,Home & Garden,9,93,2023-06-01
+7af667c5-0a3b-4379-b316-eed20e4e4abe,Jeans,Clothing,12,16,2022-12-06
+d79a56f1-1edf-45f1-ba28-91e56d9eb47a,Perfume,Health & Beauty,17,97,2023-02-17
+77149f2c-608d-4165-9c0c-3b259718bcb8,Smartwatch,Electronics,19,18,2022-01-18
+7ca6bf1e-4774-441d-aa77-a170b43ff480,Blender,Home & Garden,10,25,2022-03-26
+91936ed3-0c39-4c82-832a-673d3ca8547d,Desk Lamp,Home & Garden,9,22,2023-01-18
+2fc69579-cd5a-4d15-a6ba-2fb59d6483ad,Lawn Mower,Home & Garden,11,42,2023-02-20
+289c91ce-62bb-470d-8f1c-15599fa0150e,Smartphone,Electronics,2,74,2023-08-25
+f4262158-43c5-4de7-85c7-e888a07048e7,Camera,Electronics,6,43,2023-05-02
+716e07d4-37ee-461c-b5c0-cb8093791932,Blender,Home & Garden,8,30,2023-03-03
+7b8779ee-c60c-4be2-bf64-d6276682cf57,Bed Sheets,Home & Garden,8,84,2022-11-24
+5f17b8eb-5817-48cc-8b0d-76450451c545,Video Game,Toys & Games,1,75,2023-10-18
+dcd80d01-cfb7-42c2-a990-91f9b46cd9e1,Smartwatch,Electronics,1,67,2022-04-24
+159dc573-9bfa-4bdd-8a9b-ff50fead1ce9,Smartwatch,Electronics,17,53,2022-05-31
+f34b052f-f6b8-492b-b14f-7139b0316315,Smartwatch,Electronics,20,99,2022-03-03
+9093cd27-5b95-43bc-b7ed-3d90392389a7,Smartphone,Electronics,20,8,2022-10-09
+a40478e2-4679-4fea-888f-cb8bf1193ddb,Shampoo,Health & Beauty,12,83,2023-05-16
+30535c68-471c-492b-98eb-5f040361d643,Drill,Home & Garden,16,22,2022-03-15
+903de77a-a53c-4850-b076-3ab86f2639bb,Smartphone,Electronics,15,86,2022-12-06
+f6eb4203-f66d-4fa9-b95a-9cd57e91682d,Laptop,Electronics,14,23,2022-09-15
+5b0baa15-d76e-4eb2-a242-852476467207,Smartwatch,Electronics,1,76,2022-02-18
+7b57508a-2cf2-4b62-85a3-89a46aa79e62,Lawn Mower,Home & Garden,12,59,2023-06-07
+932f6072-70b7-417c-984a-f452209bacd0,Drill,Home & Garden,13,12,2023-06-02
+9aca006e-c86e-4543-860b-eb3118cec92d,Laptop,Electronics,14,73,2022-03-18
+83042f80-2cec-4e95-a25c-073d2e595b40,Jacket,Clothing,13,85,2022-11-04
+a3b545a4-7d90-4899-9a90-49c415710c54,Sneakers,Clothing,16,25,2022-06-22
+3f53a354-d0df-49d3-b2af-81e6210ddb64,Lawn Mower,Home & Garden,14,75,2023-12-12
+bcabfc01-7e7e-448f-a292-082c2ed867ca,Doll,Toys & Games,9,28,2023-01-10
+c64d43ed-8bf8-4c6a-a0b8-fb98bde44f0e,Headphones,Electronics,19,33,2022-02-27
+f3813056-ea33-479a-8558-2ef56d5a1d00,Bed Sheets,Home & Garden,11,71,2023-12-10
+0af23169-cfcc-4dba-8672-bcc57213c86c,Video Game,Toys & Games,4,80,2022-02-15
+2432f555-4e05-4def-b0a8-d2c300018299,Laptop,Electronics,16,15,2022-05-23
+7db61e2d-6465-47b4-8a22-acb22a28ef1b,T-Shirt,Clothing,1,27,2023-09-26
+73cd3c5b-ccd7-4267-823c-205b35afdd7b,Jacket,Clothing,3,89,2022-03-29
+c7f08329-6fa7-4c1b-9bf7-f135dd29aade,Headphones,Electronics,1,64,2022-05-22
